@@ -1,0 +1,32 @@
+# sent_id = 4290
+# structure = 或者 A ，或者 B
+# text = 我想了很久，这个答案或者是三十，或者是四十，对不对？
+# level = B2
+# structure_verbose = Providing two options with double "huozhe"
+# url = https://resources.allsetlearning.com/chinese/grammar/ASGYXI5X
+# text_en = I've thought about it for a long time. The answer is either thirty or forty, right?
+# translit = Wǒ xiǎng le hěnjiǔ, zhège dá'àn huòzhě shì sānshí, huòzhě shì sìshí, duì bu duì?
+# text_orig = 我 想 了 很 久，这个 答案 或者 是 三十， 或者 是 四十，对 不 对？
+1	我	我	PRON	_	Person=1	2	nsubj	_	Gloss=1SG|SpaceAfter=No|Tone=3|Translit=wǒ
+2	想	想	VERB	_	_	0	root	_	SpaceAfter=No|Tone=3|Translit=xiǎng
+3	了	了	AUX	_	_	2	aux	_	Gloss=PFV|SpaceAfter=No|Tone=5|Translit=le
+4	很	很	ADV	_	_	5	advmod	_	SpaceAfter=No|Tone=3|Translit=hěn
+5	久	久	ADJ	_	_	2	advcl	_	SpaceAfter=No|Tone=3|Translit=jǐu
+6	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=，
+7	这	这	DET	_	_	9	det	_	Gloss=DEM.PROX|SpaceAfter=No|Tone=4|Translit=zhè
+8	个	个	NOUN	_	_	7	clf	_	Gloss=CLF|SpaceAfter=No|Tone=4|Translit=gè
+9	答案	答案	NOUN	_	_	12	nsubj	_	SpaceAfter=No|Tone=2_4|Translit=dá_àn
+10	或者	或者	CCONJ	_	_	12	cc	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4_3|Translit=huò_zhě
+11	是	是	AUX	_	_	12	cop	_	SpaceAfter=No|Tone=4|Translit=shì
+12	三	三	NUM	_	NumType=Card	2	flat	_	SpaceAfter=No|Tone=1|Translit=sān
+13	十	十	NUM	_	NumType=Card	12	flat	_	SpaceAfter=No|Tone=2|Translit=shí
+14	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No|Translit=，
+15	或者	或者	CCONJ	_	_	17	cc	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4_3|Translit=huò_zhě
+16	是	是	AUX	_	_	17	cop	_	SpaceAfter=No|Tone=4|Translit=shì
+17	四	四	NUM	_	NumType=Card	12	conj	_	SpaceAfter=No|Tone=4|Translit=sì
+18	十	十	NUM	_	NumType=Card	17	flat	_	SpaceAfter=No|Tone=2|Translit=shí
+19	，	，	PUNCT	_	_	20	punct	_	SpaceAfter=No|Translit=，
+20	对	对	ADJ	_	_	12	parataxis	_	SpaceAfter=No|Tone=4|Translit=dùi
+21	不	不	ADV	_	Polarity=Neg	22	advmod	_	Gloss=NEG|SpaceAfter=No|Tone=4|Translit=bù
+22	对	对	ADJ	_	_	20	conj	_	SpaceAfter=No|Tone=4|Translit=dùi
+23	？	？	PUNCT	_	_	12	punct	_	SpaceAfter=No|Translit=？

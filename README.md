@@ -4,7 +4,7 @@ Examples illustrating how interlinear glossed text (IGT) data is formatted in va
 *MELD = Machine Learning for Endangered Language Documentation Lab @ University of Florida*
 
 ## Metadata
-| Language (ISO-639-3)      | Source                                        | Source Format  | Converted Format | Source file name          |
+| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source file name          |
 |:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
 | Akan (aka)                | Akan Corpus 1.0->CLDF Cookbook                | TypeCraft->CLDF| ELAN, FLEx       | |
 | Arabic (ara)              | Arabic-PADT UD Treebank                       | CoNLL-U        | CLDF, ELAN, FLEx | |

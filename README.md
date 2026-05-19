@@ -8,7 +8,7 @@ Examples illustrating how interlinear glossed text (IGT) data is formatted in va
 |:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
 | Akan (aka)                | Akan Corpus 1.0->CLDF Cookbook                | TypeCraft->CLDF| ELAN, FLEx       | |
 | Arabic (ara)              | Arabic-PADT UD Treebank                       | CoNLL-U        | CLDF, ELAN, FLEx | |
-| Batak Alas-Kleut (btk)    | 1 - Si Layakh 8.2                             | CLDF->FLEx     | CLDF, ELAN, FLEx | |
+| Batak Alas-Kleut (btz)    | 1 - Si Layakh 8.2                             | CLDF->FLEx     | CLDF, ELAN, FLEx | |
 | English (eng)             | Georgetown University Multilayer Corpus (GUM) | CoNLL-U        | CLDF, ELAN, FLEx | |
 | Hindi (hin)               | Hindi UD Treebank                             | CoNLL-U        | CLDF, ELAN, FLEx | |
 | Mandarin Chinese (cmn)    | UD Chinese Beginner Treebank                  | CoNLL-U        | CLDF, ELAN, FLEx | |

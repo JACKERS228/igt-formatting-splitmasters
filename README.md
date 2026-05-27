@@ -4,7 +4,7 @@ Examples illustrating how interlinear glossed text (IGT) data is formatted in va
 *MELD = Machine Learning for Endangered Language Documentation Lab @ University of Florida*
 
 ## Metadata
-| Language (ISO-639-3)      | Source                                        | Source Format  | Converted Format | Source file name          |
+| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source file name          |
 |:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
 | Akan (aka)                | Akan Corpus 1.0 $\rightarrow$ CLDF Cookbook                | TypeCraft->CLDF| ELAN, FLEx, CLDF, CoNLL-U       | |
 | Arabic (ara)              | Arabic-PADT UD Treebank                       | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
@@ -14,7 +14,7 @@ Examples illustrating how interlinear glossed text (IGT) data is formatted in va
 | Mandarin Chinese (cmn)    | UD Chinese Beginner Treebank                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
 | Russian (rus)             | Taiga Corpus                                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
 | Xibe (sjo)                | UD Xibe Treebank                              | CoNLL-U        | CLDF, ELAN, FLEx | |
-| Upper Tanana (tau)        | Olga Lovick                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | UTOFLA09Aug1201-18620.eaf |
+| Upper Tanana (tau)        | Olga Lovick                                   | ELAN           |   ELAN, FLEx, CLDF               | UTOFLA09Aug1201-18620.eaf |
 | Dene Suline (chp)         | Olga Lovick                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | NET-2020-05-29-TDC.eaf    |
 | Alas Kluet (btz)          | Adnrew Brumleve                               | FLEx           |                  | btz-all_txts_ORIGINAL.flextext |
   

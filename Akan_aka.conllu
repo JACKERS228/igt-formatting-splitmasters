@@ -1,0 +1,20 @@
+# meta::sourceURL = https://github.com/cldf/cookbook/blob/master/recipes/igt/cldf/examples.csv
+# text[eng] = All the handsome children coming towards us they wear red dresses.
+# file = examples.csv
+# Corpus = TypeCraft Akan Corpus as used in CLDF Cookbook
+# newpar
+# sent_id = 453165
+# text = nkoadaa fɛfɛɛfɛ no nyinaa ɛɛbayɛ ho na omɔshɛ atadeɛ kɔkɔɔ no.
+1	nkoadaa	akwadaa	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	MSeg=n-akwadaa
+2	fɛfɛɛfɛ	fɛfɛɛfɛ	ADJ	_	_	_	_	_	_
+3	no	no	DET	_	_	_	_	_	_
+4	nyinaa	nyinaa	ADJ	_	Definite=Def	_	_	_	_
+5-6	ɛɛbayɛ	_	_	_	_	_	_	_	MSeg=ɛɛ- ba =yɛ
+5	ɛɛba	ba	VERB	_	_	_	_	_	_
+6	yɛ	yɛ	AUX	_	_	_	_	_	_
+7	ho	ho	DET	DXS.PROX	_	_	_	_	_
+8	na	na	PART	FOC	PronType=Discourse _	_	_	_	_
+9	omɔshɛ	shɛ	VERB	_	_	_	_	_	_
+10	atadeɛ	atadeɛ	NOUN	_	_	_	_	_	_
+11	kɔkɔɔ	kɔkɔɔ	ADJ	_	_	_	_	_	_
+12	no	no	DET	_	_	_	_	_	_

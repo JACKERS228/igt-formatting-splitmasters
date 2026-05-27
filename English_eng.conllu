@@ -1,0 +1,58 @@
+# newdoc id = GUM_conversation_scientist
+# global.Entity = GRP-etype-infstat-salience-centering-minspan-link-identity
+# meta::author = Santa Barbara Corpus of Spoken American English (ed. John W. Du Bois)
+# meta::dateCollected = 2022-09-02
+# meta::dateCreated = 2000-01-01
+# meta::dateModified = 2000-01-01
+# meta::genre = conversation
+# meta::salientEntities = 2 (5*), 11 (5*), 37 (4*), 38 (4*), 39 (3), 46 (3), 4 (2*), 5 (2*), 42 (2), 52 (2), 97 (2*), 106 (2*), 1 (1*), 3 (1), 18 (1), 20 (1), 26 (1), 61 (1), 64 (1), 98 (1*), 99 (1*), 104 (1), 107 (1*), 110 (1)
+# meta::sourceURL = https://www.linguistics.ucsb.edu/research/santa-barbara-corpus#SBC017
+# meta::speakerCount = 2
+# meta::summary1 = (human1) Two friends discuss a cartoon called 'The Scientist' that symbolizes the limitations of the scientific method, contrasting unquestioned adherence to the scientific method with Einstein's new ways of doing things, as well as how technology today is soulless and tied to consumerism.
+# meta::summary2 = (claude-3-5-sonnet-20241022) A speaker reflects on a psychedelic-era poster depicting a scientist examining rubble beneath a crumbling statue of embracing lovers, using this as a metaphor to criticize modern science's narrow focus and disconnection from holistic human experience.
+# meta::summary3 = (gpt4o; postedited) The speaker critiques the scientific method's limitations, arguing that its narrow focus overlooks human experiences like the mythical and subjective, leading to consumer-driven technology lacking the holistic peace envisioned by thinkers like Einstein.
+# meta::summary4 = (Llama-3.2-3B-Instruct; postedited) The speaker reflects on the limitations of the scientific method and the importance of considering the whole human experience, including subjective and spiritual aspects, in order to truly understand and make progress in science.
+# meta::summary5 = (Qwen2.5-7B-Instruct) A person reflects on the limitations of the scientific method and argues for a more holistic approach that incorporates mythology, spirituality, and the subjective human experience, emphasizing the importance of communication and leadership among different fields of study.
+# meta::title = Wonderful Abstract Notions
+# newpar
+# newpar_block = sp who:::"#Jim" whom:::"#Michael" (8 s)
+# sent_id = GUM_conversation_scientist-4
+# s_prominence = 5
+# s_type = decl
+# transition = zero
+# speaker = Jim
+# addressee = Michael
+# text = And scientists are, are taking such control over the world these days, uh with their n-, you know, not the scientists, but what they've invented.
+1	And	and	CCONJ	CC	_	6	cc	6:cc	Discourse=context-background:6->4:1:dm-and-43-gold|PDTB=Explicit:Expansion.Conjunction:and:43:23-40:44-74
+2	scientists	scientist	NOUN	NNS	Number=Plur	3	nsubj	3:nsubj	Entity=(8-person-new-nnnnn-cf1-1-coref)|MSeg=scient-ist-s
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	6:reparandum	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+6	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=tak-ing
+7	such	such	ADJ	JJ	_	8	amod	8:amod	Entity=(9-abstract-new-nnnnn-cf4-2-sgl
+8	control	control	NOUN	NN	Number=Sing	6	obj	6:obj	_
+9	over	over	ADP	IN	_	11	case	11:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(10-place-new-nnnnn-cf5-2-sgl
+11	world	world	NOUN	NN	Number=Sing	8	nmod	8:nmod:over	Entity=10)9)
+12	these	this	DET	DT	Number=Plur|PronType=Dem	13	det	13:det	Entity=(11-time-acc:com-sssss-cf3-2-coref
+13	days	day	NOUN	NNS	Number=Plur	6	obl:unmarked	6:obl:unmarked	Entity=11)|MSeg=day-s|SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	15:punct	_
+15	uh	uh	INTJ	UH	_	25	discourse	25:discourse	_
+16	with	with	ADP	IN	_	18	case	18:case	_
+17	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	18:nmod:poss	Entity=(8-person-giv:act-nnnnn-cf1-1-ana)
+18	n-	n-	INTJ	UH	_	25	reparandum	25:reparandum	SpaceAfter=No
+19	,	,	PUNCT	,	_	18	punct	18:punct	_
+20	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	21	nsubj	21:nsubj	Discourse=organization-phatic:7->8:0:lex-indph-62-63-_|Entity=(1-person-giv:inact-snnnn-cf2-1-ana)
+21	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	parataxis	25:parataxis	SpaceAfter=No
+22	,	,	PUNCT	,	_	21	punct	21:punct	_
+23	not	not	PART	RB	Polarity=Neg	25	advmod	25:advmod	Discourse=same-unit_m:8->6:0:_|Negation=Yes
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Entity=(8-person-giv:act-nnnnn-cf1-2-coref
+25	scientists	scientist	NOUN	NNS	Number=Plur	6	parataxis	6:parataxis	Entity=8)|MSeg=scient-ist-s|SpaceAfter=No
+26	,	,	PUNCT	,	_	28	punct	28:punct	_
+27	but	but	CCONJ	CC	_	28	cc	28:cc	_
+28	what	what	PRON	WP	PronType=Rel	25	conj	25:conj:but	Entity=(12-abstract-new-nnnnn-cf6-1-coref
+29-30	they've	_	_	_	_	_	_	_	_
+29	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	31	nsubj	31:nsubj	Entity=(8-person-giv:act-nnnnn-cf1-1-ana)
+30	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux	31:aux	_
+31	invented	invent	VERB	VBN	Tense=Past|VerbForm=Part	28	acl:relcl	28:acl:relcl	Entity=12)|MSeg=invent-ed|SpaceAfter=No
+32	.	.	PUNCT	.	_	6	punct	6:punct	_

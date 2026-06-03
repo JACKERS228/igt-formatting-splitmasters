@@ -1,0 +1,1867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="4dd8023b-7f01-456b-b05a-2f81e02bf7da">
+    <item type="title" lang="en">UTOLAF09Aug12</item>
+    <item type="date-created" lang="en">2026-05-20 14:35:22.279</item>
+    <item type="date-modified" lang="en">2026-06-01 14:12:23.955</item>
+    <paragraphs>
+      <paragraph guid="6e4be19a-b97a-4857-8d15-4e04ed102b9d">
+        <phrases>
+          <phrase guid="923f45c0-b682-4213-bdaf-70db7a7af26e">
+            <item type="txt" lang="tau">Tąy hǫǫteel niign nats'elsüüh.</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="d52e6b16-4c63-4ee0-96ec-289c2f9120d3">
+                <item type="txt" lang="tau">Tąy</item>
+              </word>
+              <word guid="9ea75ce4-f5cd-4184-906e-2a692a1973c0">
+                <item type="txt" lang="tau">hǫǫteel</item>
+              </word>
+              <word guid="42767a6a-412b-4aae-b33d-efe7ac628e23">
+                <item type="txt" lang="tau">niign</item>
+              </word>
+              <word guid="ce1c6ccc-a7c1-455b-a617-213c7f7d098e">
+                <item type="txt" lang="tau">nats'elsüüh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">We hunt at the roadside.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="544e3f2c-a7a3-4489-88b4-c9188c566251">
+        <phrases>
+          <phrase guid="20db2cae-4222-42e9-bc05-c4e6998959a6">
+            <item type="txt" lang="tau">Tąy hǫǫteeł niign nats'elsüüh.</item>
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="d52e6b16-4c63-4ee0-96ec-289c2f9120d3">
+                <item type="txt" lang="tau">Tąy</item>
+              </word>
+              <word guid="a805b053-7e10-4073-a5aa-f003edbb5d96">
+                <item type="txt" lang="tau">hǫǫteeł</item>
+              </word>
+              <word guid="42767a6a-412b-4aae-b33d-efe7ac628e23">
+                <item type="txt" lang="tau">niign</item>
+              </word>
+              <word guid="ce1c6ccc-a7c1-455b-a617-213c7f7d098e">
+                <item type="txt" lang="tau">nats'elsüüh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">We hunt at the side of the highway.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b5210c1f-2099-4d75-a6bf-f5fd820091cf">
+        <phrases>
+          <phrase guid="f1195957-3b1e-4641-bab6-7d48fb795aaa">
+            <item type="txt" lang="tau">nts'ą̈' </item>
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">and</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6251834b-abb7-48a0-8c85-f78973583bd8">
+        <phrases>
+          <phrase guid="1ab12404-20c7-4c1d-a07c-4d31cc728c97">
+            <item type="txt" lang="tau">Meh nats'elmoo.</item>
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="9f7666a9-694e-4819-b326-de8c62a888df">
+                <item type="txt" lang="tau">Meh</item>
+              </word>
+              <word guid="a593781d-3ea0-47ad-9eae-a8d52fd2db1c">
+                <item type="txt" lang="tau">nats'elmoo</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Truck</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a9980478-d07b-487e-a25c-4d6782fd82dd" />
+      <paragraph guid="4c04aa3b-c5b0-4234-8a20-a6feb298b52a">
+        <phrases>
+          <phrase guid="3d169702-53d4-4a85-93c2-41cfa841e2e6">
+            <item type="txt" lang="tau">Tąy hǫǫteeł niign nats'elsüü eh.</item>
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="d52e6b16-4c63-4ee0-96ec-289c2f9120d3">
+                <item type="txt" lang="tau">Tąy</item>
+              </word>
+              <word guid="a805b053-7e10-4073-a5aa-f003edbb5d96">
+                <item type="txt" lang="tau">hǫǫteeł</item>
+              </word>
+              <word guid="42767a6a-412b-4aae-b33d-efe7ac628e23">
+                <item type="txt" lang="tau">niign</item>
+              </word>
+              <word guid="587196dd-f323-46ad-be28-2f0737514876">
+                <item type="txt" lang="tau">nats'elsüü</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">We hunt at the side of the highway.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="64fe4daf-e803-4f72-b9f7-e0dfdd92ab2c">
+        <phrases>
+          <phrase guid="d7387dd3-3955-4f00-80f4-ab12cd76c355">
+            <item type="txt" lang="tau">Taylor Highway hǫǫsi'.</item>
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="8fa529c9-608f-4f09-ab6f-87519b9b7471">
+                <item type="txt" lang="tau">Taylor</item>
+              </word>
+              <word guid="1efc397f-51c2-4153-ab69-815f34842fe4">
+                <item type="txt" lang="tau">Highway</item>
+              </word>
+              <word guid="b36d053a-9ab8-4d18-a80d-09066a72e493">
+                <item type="txt" lang="tau">hǫǫsi'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">They call it Taylor Highway.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a6773b96-98d2-41f1-b464-432ca96a096d">
+        <phrases>
+          <phrase guid="ff6382d0-355e-4f1f-8f5a-6b4a406607bc">
+            <item type="txt" lang="tau">Jah t'eey tąy teeł Taylor Highway mǫǫsi'.</item>
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="da74c781-10b8-4b69-874b-5369acdf229c">
+                <item type="txt" lang="tau">Jah</item>
+              </word>
+              <word guid="edbd6f02-700d-430c-9c6b-d9f24b83f3c4">
+                <item type="txt" lang="tau">t'eey</item>
+              </word>
+              <word guid="70a9b611-6c1b-45fe-ab02-6bf8d2a44857">
+                <item type="txt" lang="tau">tąy</item>
+              </word>
+              <word guid="038c7c8b-966c-489f-91b8-5fae4c546bb3">
+                <item type="txt" lang="tau">teeł</item>
+              </word>
+              <word guid="8fa529c9-608f-4f09-ab6f-87519b9b7471">
+                <item type="txt" lang="tau">Taylor</item>
+              </word>
+              <word guid="1efc397f-51c2-4153-ab69-815f34842fe4">
+                <item type="txt" lang="tau">Highway</item>
+              </word>
+              <word guid="becd564a-89f5-4664-8b9d-c04d13b938e9">
+                <item type="txt" lang="tau">mǫǫsi'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Here on the road that is called Taylor Highway.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="94441da1-e4e7-41d1-bf0f-816a850ab3e4">
+        <phrases>
+          <phrase guid="a1d352f8-58e6-4d71-9545-ec3e738201f0">
+            <item type="txt" lang="tau">Ay ishyiit nts'änh noo nats'atdäl eh.</item>
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word guid="fc667181-e5de-434a-8129-d36dc82fb31d">
+                <item type="txt" lang="tau">ishyiit</item>
+              </word>
+              <word guid="4462a0f4-8261-4b12-b448-423bf766ccf1">
+                <item type="txt" lang="tau">nts'änh</item>
+              </word>
+              <word guid="095d36f1-f02b-4466-a7cb-cac3cfe34e0e">
+                <item type="txt" lang="tau">noo</item>
+              </word>
+              <word guid="f3e19132-3e58-40ca-bea0-c6f3f73982d8">
+                <item type="txt" lang="tau">nats'atdäl</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And from there we were going back.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="40ccb794-589b-41d8-9eed-5f42c953acf1">
+        <phrases>
+          <phrase guid="d516439d-903f-4a6b-8234-c18bd6b8efe5">
+            <item type="txt" lang="tau">T'axoh neeshyah Naambia Niign' hu'ąą dą' nts'ą̈' nats'atdäl eh.</item>
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="251cf171-edd2-41f9-b5a0-7d06c122c47b">
+                <item type="txt" lang="tau">T'axoh</item>
+              </word>
+              <word guid="27620858-4b30-45c7-a6e1-eb63ddaa0e63">
+                <item type="txt" lang="tau">neeshyah</item>
+              </word>
+              <word guid="ee0784e2-84f7-4425-a809-86e0ffaa23a2">
+                <item type="txt" lang="tau">Naambia</item>
+              </word>
+              <word guid="5c35ee18-beb0-4dc4-93fb-fdb3ed1f8d7c">
+                <item type="txt" lang="tau">Niign'</item>
+              </word>
+              <word guid="c7908972-6f74-438c-b2ec-18404b00f005">
+                <item type="txt" lang="tau">hu'ąą</item>
+              </word>
+              <word guid="c155e131-9b11-4bf8-affc-c2d28c3b712e">
+                <item type="txt" lang="tau">dą'</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="f3e19132-3e58-40ca-bea0-c6f3f73982d8">
+                <item type="txt" lang="tau">nats'atdäl</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Finally we were going back to our house in Northway.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f925e94c-575e-49db-872e-f49bb98d04ec">
+        <phrases>
+          <phrase guid="7eb55b7b-a1ee-48c8-b3fb-bdd74db313c9">
+            <item type="txt" lang="tau">Dahdǫǫ shoh dat-sąy kah hach'edagn'įį'.</item>
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="51d3d69b-cadf-4f84-8e18-a60760fd1481">
+                <item type="txt" lang="tau">Dahdǫǫ</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="3f6a9c07-7d09-4572-8e5c-ada2bb95ce16">
+                <item type="txt" lang="tau">dat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">-</item>
+              </word>
+              <word guid="24cb07b9-788d-4c7f-83a2-e09b09200ecd">
+                <item type="txt" lang="tau">sąy</item>
+              </word>
+              <word guid="7c3e7300-d3dd-4d01-9098-a4b30bc57435">
+                <item type="txt" lang="tau">kah</item>
+              </word>
+              <word guid="31361a40-c0b7-4192-be12-657b9fcb78ae">
+                <item type="txt" lang="tau">hach'edagn'įį'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">From uphill I was looking around for black bears.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d1e6f6f6-78cf-4592-99d5-cfa123f9195f">
+        <phrases>
+          <phrase guid="07dc0b46-8ee7-4992-862b-9e96967f82b8">
+            <item type="txt" lang="tau">Ay chih ts'eldeeł.</item>
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word guid="3568ecba-7440-45ca-919f-278ca5fa9484">
+                <item type="txt" lang="tau">chih</item>
+              </word>
+              <word guid="e0395abd-dd0a-4bf1-b6b1-7c09945a9772">
+                <item type="txt" lang="tau">ts'eldeeł</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And also we eat them.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3c8b029e-9dec-49c6-bc4c-5d938160d8be">
+        <phrases>
+          <phrase guid="fa114b62-075a-48d3-a2cc-2ee6821123f9">
+            <item type="txt" lang="tau">Noołuut tah elk'ah, ushyi' nsǫǫ!</item>
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="3626792c-2c48-4790-92d8-8cd74a39d908">
+                <item type="txt" lang="tau">Noołuut</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="2431e85e-0f76-48c0-9b9a-7c6a513ce570">
+                <item type="txt" lang="tau">elk'ah</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="2956b0ae-06b7-4153-b0e2-2888a34a6555">
+                <item type="txt" lang="tau">ushyi'</item>
+              </word>
+              <word guid="a10f2113-874e-4304-8f61-d0daf614698e">
+                <item type="txt" lang="tau">nsǫǫ</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">In the fall they are fat, their meat is good!</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2a52a183-3e89-4425-b156-4052b47d8306">
+        <phrases>
+          <phrase guid="5d985875-9deb-4481-a4cc-a44859459535">
+            <item type="txt" lang="tau">Ay tl'aan dǫǫ nats'atdäl eh.</item>
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word guid="3a8d4e9e-438f-4142-906f-78a1fca23b60">
+                <item type="txt" lang="tau">tl'aan</item>
+              </word>
+              <word guid="59b986da-31c6-4f6a-b430-226c209b8a01">
+                <item type="txt" lang="tau">dǫǫ</item>
+              </word>
+              <word guid="f3e19132-3e58-40ca-bea0-c6f3f73982d8">
+                <item type="txt" lang="tau">nats'atdäl</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And then from way up there we were going back. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="83277825-1655-40f2-b453-c42684473799">
+        <phrases>
+          <phrase guid="f80060c6-b3ee-4918-bf0b-2c3971a29d73">
+            <item type="txt" lang="tau">Jah tąy k'üü noodlee iin nah'ogn tourist huhinay iin hushyah choh heetąą nts'ą̈'.</item>
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="da74c781-10b8-4b69-874b-5369acdf229c">
+                <item type="txt" lang="tau">Jah</item>
+              </word>
+              <word guid="70a9b611-6c1b-45fe-ab02-6bf8d2a44857">
+                <item type="txt" lang="tau">tąy</item>
+              </word>
+              <word guid="a7de60fd-7e4d-4b82-b72f-00875a58258a">
+                <item type="txt" lang="tau">k'üü</item>
+              </word>
+              <word guid="9f438a05-a089-40dd-9114-8aa3a84eb4e2">
+                <item type="txt" lang="tau">noodlee</item>
+              </word>
+              <word guid="31b9e81b-c963-4beb-8852-420905a52a8a">
+                <item type="txt" lang="tau">iin</item>
+              </word>
+              <word guid="10f29adc-7b96-4640-a641-235f653b6548">
+                <item type="txt" lang="tau">nah'ogn</item>
+              </word>
+              <word guid="2aec8138-ffee-42e2-ba35-503b2efbda75">
+                <item type="txt" lang="tau">tourist</item>
+              </word>
+              <word guid="9c885790-7456-4393-b429-7ae4d7c59007">
+                <item type="txt" lang="tau">huhinay</item>
+              </word>
+              <word guid="31b9e81b-c963-4beb-8852-420905a52a8a">
+                <item type="txt" lang="tau">iin</item>
+              </word>
+              <word guid="abaed24c-ba84-447e-9eb0-cb16685a160e">
+                <item type="txt" lang="tau">hushyah</item>
+              </word>
+              <word guid="073134ae-c4ef-449b-b8a1-a416ad66f317">
+                <item type="txt" lang="tau">choh</item>
+              </word>
+              <word guid="49e199a5-5867-465f-9524-8d64613dd2d7">
+                <item type="txt" lang="tau">heetąą</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Here, next to the road, white people, the ones they call tourists, had parked their big camper.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="936e5f35-a9d1-4e3c-91d2-a8998d13eef5">
+        <phrases>
+          <phrase guid="195fa566-e78a-41c3-a210-314e8f7aa314">
+            <item type="txt" lang="tau">Ch'itay &lt;du'&gt;, ch'ikąy' u'aat eh ishyiit nahideeh nts'ą̈' /picture/ shoh dat-sąy eh ehtsayh.</item>
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="3e2cdf88-1c10-482d-8fee-f4324f393a9c">
+                <item type="txt" lang="tau">Ch'itay</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&lt;</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&gt;,</item>
+              </word>
+              <word guid="916ca74a-8189-49a3-b702-a5e930bec1ab">
+                <item type="txt" lang="tau">ch'ikąy'</item>
+              </word>
+              <word guid="c87838ff-b560-4218-b4a4-9c2795ec3879">
+                <item type="txt" lang="tau">u'aat</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="fc667181-e5de-434a-8129-d36dc82fb31d">
+                <item type="txt" lang="tau">ishyiit</item>
+              </word>
+              <word guid="e66eb6a9-1c4e-4bea-99bb-dc99951861b8">
+                <item type="txt" lang="tau">nahideeh</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">/</item>
+              </word>
+              <word guid="823916a3-dd59-4cf5-b14b-9b320710d388">
+                <item type="txt" lang="tau">picture</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">/</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="3f6a9c07-7d09-4572-8e5c-ada2bb95ce16">
+                <item type="txt" lang="tau">dat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">-</item>
+              </word>
+              <word guid="24cb07b9-788d-4c7f-83a2-e09b09200ecd">
+                <item type="txt" lang="tau">sąy</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="ebb8b02b-2322-4efa-af43-ee07811c2835">
+                <item type="txt" lang="tau">ehtsayh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">That old man, a husband and his wife were standing there and taking pictures of a black bear.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8b6349f9-aad1-4b5c-8798-37e6892d6593">
+        <phrases>
+          <phrase guid="6c24b921-9da1-4927-839d-f480af5c34ff">
+            <item type="txt" lang="tau">Ha'atthiit shoh dat-sąy its'ą̈' na'ithät hatnagn'ąy eh.</item>
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="6e6f7f56-0a42-4299-9edb-563d6ee964b8">
+                <item type="txt" lang="tau">Ha'atthiit</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="3f6a9c07-7d09-4572-8e5c-ada2bb95ce16">
+                <item type="txt" lang="tau">dat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">-</item>
+              </word>
+              <word guid="24cb07b9-788d-4c7f-83a2-e09b09200ecd">
+                <item type="txt" lang="tau">sąy</item>
+              </word>
+              <word guid="9c5d4b3f-2449-416c-b9de-45498ee10085">
+                <item type="txt" lang="tau">its'ą̈'</item>
+              </word>
+              <word guid="5adf07c8-0195-46c3-b07c-4dfbd6523fcf">
+                <item type="txt" lang="tau">na'ithät</item>
+              </word>
+              <word guid="3e183081-baf7-452b-aca0-3f30f5aabe18">
+                <item type="txt" lang="tau">hatnagn'ąy</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Way down there I spotted a black bear standing, facing them.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8a410b3f-2bc6-47d7-8224-6c64686877b5">
+        <phrases>
+          <phrase guid="520dd08b-edb3-42db-8a58-b6a7aea51154">
+            <item type="txt" lang="tau">Roy naksä:::::ł.</item>
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="d64781ea-32cc-48bf-8ea7-3cc05fa54d64">
+                <item type="txt" lang="tau">Roy</item>
+              </word>
+              <word guid="f43a41cc-239a-4a04-b12f-2f67a3fd8eda">
+                <item type="txt" lang="tau">naksä</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:::::</item>
+              </word>
+              <word guid="44e2a9c4-7cdd-43b8-aad3-d6dcf4608a2c">
+                <item type="txt" lang="tau">ł</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I hollered at Roy.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="cdc02409-11ed-4f6b-bbfd-de6469ef69f1">
+        <phrases>
+          <phrase guid="4519e70f-4a68-47b0-ba96-eba013ba28bf">
+            <item type="txt" lang="tau">&lt;&lt;"Nih'įh? </item>
+            <item type="segnum" lang="en">19.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">&lt;&lt;"</item>
+              </word>
+              <word guid="afb9b004-a7a0-4273-bf10-3c058e2cbcb2">
+                <item type="txt" lang="tau">Nih'įh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"You see?</item>
+          </phrase>
+          <phrase guid="60d231db-da5c-407f-b854-4e5d404a0ca3">
+            <item type="txt" lang="tau">Nih'įh?"&gt;&gt;</item>
+            <item type="segnum" lang="en">19.2</item>
+            <words>
+              <word guid="afb9b004-a7a0-4273-bf10-3c058e2cbcb2">
+                <item type="txt" lang="tau">Nih'įh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"&gt;&gt;</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">You see?"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1eb57f49-851f-436d-8246-c4ebd5e48a61">
+        <phrases>
+          <phrase guid="6c2b7ed1-1c97-40e3-b3d1-c103452a4066">
+            <item type="txt" lang="tau">"Tthee! </item>
+            <item type="segnum" lang="en">20.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="17c61625-33a6-4e49-9546-080aa67f3ce6">
+                <item type="txt" lang="tau">Tthee</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Wait!</item>
+          </phrase>
+          <phrase guid="51937df5-0729-4d9c-ba37-37294667b0be">
+            <item type="txt" lang="tau">Jah du' stop!"</item>
+            <item type="segnum" lang="en">20.2</item>
+            <words>
+              <word guid="da74c781-10b8-4b69-874b-5369acdf229c">
+                <item type="txt" lang="tau">Jah</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word guid="93885f32-69c6-41df-9b91-f3f371b31a78">
+                <item type="txt" lang="tau">stop</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Stop right here!" </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8ed7e47b-3369-4245-9eda-4898195fc2d1">
+        <phrases>
+          <phrase guid="1020d293-ae7a-46cd-892e-c68cae0f8616">
+            <item type="txt" lang="tau">Roy t'oot'eey ah ay t'oot'eey hǫǫ't'eey ch'aałäł.</item>
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="d64781ea-32cc-48bf-8ea7-3cc05fa54d64">
+                <item type="txt" lang="tau">Roy</item>
+              </word>
+              <word guid="0a60c213-b414-4784-9627-996856d0afd1">
+                <item type="txt" lang="tau">t'oot'eey</item>
+              </word>
+              <word guid="a9f24177-bcd0-419e-986c-bcfce909327d">
+                <item type="txt" lang="tau">ah</item>
+              </word>
+              <word guid="4bfc32f1-e921-4f77-b157-0e5e605fc31b">
+                <item type="txt" lang="tau">ay</item>
+              </word>
+              <word guid="0a60c213-b414-4784-9627-996856d0afd1">
+                <item type="txt" lang="tau">t'oot'eey</item>
+              </word>
+              <word guid="2160bb4f-2466-46cc-8af7-3822bca39f11">
+                <item type="txt" lang="tau">hǫǫ't'eey</item>
+              </word>
+              <word guid="1b869413-e1bb-4e20-9ab3-39ef43c2825e">
+                <item type="txt" lang="tau">ch'aałäł</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">But Roy kept driving.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f9cdb5d3-d115-4473-a6ca-1af37558d8e7">
+        <phrases>
+          <phrase guid="1a1d55b3-857f-4b8c-9ca9-9ac8f6b55e11">
+            <item type="txt" lang="tau">Eh naksä:::l eh.</item>
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">Eh</item>
+              </word>
+              <word guid="f43a41cc-239a-4a04-b12f-2f67a3fd8eda">
+                <item type="txt" lang="tau">naksä</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:::</item>
+              </word>
+              <word guid="a4207587-6b67-4e75-9978-c844f546dd22">
+                <item type="txt" lang="tau">l</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And I was hollering.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4d45c81b-5ee1-4ac6-b5df-f8d765d5c1df">
+        <phrases>
+          <phrase guid="28597ca7-7c10-46d1-91d0-2fe6c3dc8e98">
+            <item type="txt" lang="tau">T'axoh &lt;nich'inįįłaat&gt; ay tl'aan.</item>
+            <item type="segnum" lang="en">23</item>
+            <words>
+              <word guid="251cf171-edd2-41f9-b5a0-7d06c122c47b">
+                <item type="txt" lang="tau">T'axoh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&lt;</item>
+              </word>
+              <word guid="209b8a5d-4dea-4da9-8a32-79097d112a3a">
+                <item type="txt" lang="tau">nich'inįįłaat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&gt;</item>
+              </word>
+              <word guid="4bfc32f1-e921-4f77-b157-0e5e605fc31b">
+                <item type="txt" lang="tau">ay</item>
+              </word>
+              <word guid="3a8d4e9e-438f-4142-906f-78a1fca23b60">
+                <item type="txt" lang="tau">tl'aan</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Finally he stopped and then.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="4060f0b1-37cc-4948-b48b-01c6ce83e0f4">
+        <phrases>
+          <phrase guid="0a68fada-31a5-422a-a4a3-dc96b02a49b5">
+            <item type="txt" lang="tau">K'at'eey k'at'eey &lt;nich'ihniitl'aadn&gt; iltsiil nts'ą̈' t'eey än' tinagntthät k'a' eh.</item>
+            <item type="segnum" lang="en">24</item>
+            <words>
+              <word guid="46233a8b-5c3c-4886-b013-a2aac85dd409">
+                <item type="txt" lang="tau">K'at'eey</item>
+              </word>
+              <word guid="7f2bfe42-7e9b-4e4d-9dc5-7a9fbad30cdf">
+                <item type="txt" lang="tau">k'at'eey</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&lt;</item>
+              </word>
+              <word guid="4b7845c9-f50b-4cb3-a699-d7abe72fda1e">
+                <item type="txt" lang="tau">nich'ihniitl'aadn</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&gt;</item>
+              </word>
+              <word guid="9630858f-4076-42fc-a492-073307c542a4">
+                <item type="txt" lang="tau">iltsiil</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="edbd6f02-700d-430c-9c6b-d9f24b83f3c4">
+                <item type="txt" lang="tau">t'eey</item>
+              </word>
+              <word guid="280e9e6b-c7ad-46e2-bad6-77bac81a4f4b">
+                <item type="txt" lang="tau">än'</item>
+              </word>
+              <word guid="90110d9e-da7b-4a26-a67e-b917dc18aaf8">
+                <item type="txt" lang="tau">tinagntthät</item>
+              </word>
+              <word guid="b46ea4a2-d248-4195-8dae-49e1b9d7f503">
+                <item type="txt" lang="tau">k'a'</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He didn't quite stop and I ran out with the gun.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7b7a905f-4f81-48e5-a1de-db0a9e377f7b">
+        <phrases>
+          <phrase guid="3f05da38-80bd-4296-b995-61ef75ec21ad">
+            <item type="txt" lang="tau">Naxat dineh ch'ishyiign ehxaan shoh dat-sąy ay du' k'at'eey minaniich'akthädn nts'ą̈'.</item>
+            <item type="segnum" lang="en">25</item>
+            <words>
+              <word guid="fa88f015-81e8-4c2f-a905-c8c9670edc3a">
+                <item type="txt" lang="tau">Naxat</item>
+              </word>
+              <word guid="fbe7a7c0-9e73-464d-9a76-d00279fb9955">
+                <item type="txt" lang="tau">dineh</item>
+              </word>
+              <word guid="1fbdd8a9-7911-452c-9c2f-5bbedbf703db">
+                <item type="txt" lang="tau">ch'ishyiign</item>
+              </word>
+              <word guid="a4d7dc4a-b84e-40b0-a1c3-fd6912ab2c4d">
+                <item type="txt" lang="tau">ehxaan</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="3f6a9c07-7d09-4572-8e5c-ada2bb95ce16">
+                <item type="txt" lang="tau">dat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">-</item>
+              </word>
+              <word guid="24cb07b9-788d-4c7f-83a2-e09b09200ecd">
+                <item type="txt" lang="tau">sąy</item>
+              </word>
+              <word guid="4bfc32f1-e921-4f77-b157-0e5e605fc31b">
+                <item type="txt" lang="tau">ay</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word guid="7f2bfe42-7e9b-4e4d-9dc5-7a9fbad30cdf">
+                <item type="txt" lang="tau">k'at'eey</item>
+              </word>
+              <word guid="c2406fee-8894-48dc-8f7c-183b8df7a9d9">
+                <item type="txt" lang="tau">minaniich'akthädn</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">That man was taking pictures of the black bear, I didn't even think about him.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="40084aac-a7d9-451f-b19d-00cb03fa8a7a">
+        <phrases>
+          <phrase guid="7cd5716d-810d-48dc-91db-fb418fe323dd">
+            <item type="txt" lang="tau">Shoh shoh nts'ą̈' agntthäl &lt;eh&gt;.</item>
+            <item type="segnum" lang="en">26</item>
+            <words>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">Shoh</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="4406aee9-e56f-425c-9bab-e25cf6b61799">
+                <item type="txt" lang="tau">agntthäl</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&lt;</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&gt;.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I ran towards the bear.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="332bf6c1-66be-4648-96dc-2f1a0c91c32f">
+        <phrases>
+          <phrase guid="fb199a56-8554-4ea2-8b5c-4706ca1ca68a">
+            <item type="txt" lang="tau">Agntthäł nts'ą̈' uu'akdiih.</item>
+            <item type="segnum" lang="en">27</item>
+            <words>
+              <word guid="55bf004a-ca2b-4bb4-8047-17d213bffa65">
+                <item type="txt" lang="tau">Agntthäł</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="d6014f9e-6265-4675-a769-b46ba6996ef2">
+                <item type="txt" lang="tau">uu'akdiih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm shooting it while I'm running.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="389e35ff-8a72-452a-b1cc-17701907d3f8">
+        <phrases>
+          <phrase guid="5ecd52fb-48d1-40e1-85d8-eadaab43c040">
+            <item type="txt" lang="tau">Ay [laughs] dhakday eh hanuhshyign' tüh sdzina'altth'ät.</item>
+            <item type="segnum" lang="en">28</item>
+            <words>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">[</item>
+              </word>
+              <word guid="190945a1-aa60-4444-9894-0ce6918b539f">
+                <item type="txt" lang="tau">laughs</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">]</item>
+              </word>
+              <word guid="4a84fbcc-5317-40ea-88d0-4b86f74c60ba">
+                <item type="txt" lang="tau">dhakday</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="d69c8f8c-b8f4-431a-8aad-7f9ed6fc38a5">
+                <item type="txt" lang="tau">hanuhshyign'</item>
+              </word>
+              <word guid="23781fc9-9d91-4807-be30-509bf7a27068">
+                <item type="txt" lang="tau">tüh</item>
+              </word>
+              <word guid="8dd04490-1865-427e-9e64-b5b77dc560b2">
+                <item type="txt" lang="tau">sdzina'altth'ät</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm shooting and it tumbles down over the edge.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="69753c04-e5ec-41dc-8670-ffcf8423f5e4">
+        <phrases>
+          <phrase guid="25c7cbf4-89ea-4fff-b273-33aede4ecba6">
+            <item type="txt" lang="tau">Atthän' uu'agntthäł.</item>
+            <item type="segnum" lang="en">29</item>
+            <words>
+              <word guid="643d168f-d993-48f8-aac1-553a49946394">
+                <item type="txt" lang="tau">Atthän'</item>
+              </word>
+              <word guid="0bbd78b8-1543-45a5-832d-05ba597fac31">
+                <item type="txt" lang="tau">uu'agntthäł</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I'm running down after it.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a249d1a9-a8eb-447a-96a7-6230a0777b81">
+        <phrases>
+          <phrase guid="823ff33b-4f9c-47ed-93d1-8b08e96cf843">
+            <item type="txt" lang="tau">Eh t'eey neeshye' Howard neek'eh t'eey niich'inįhłaat.</item>
+            <item type="segnum" lang="en">30</item>
+            <words>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">Eh</item>
+              </word>
+              <word guid="edbd6f02-700d-430c-9c6b-d9f24b83f3c4">
+                <item type="txt" lang="tau">t'eey</item>
+              </word>
+              <word guid="59699e26-d6ab-4b23-8d52-178d0fd517fc">
+                <item type="txt" lang="tau">neeshye'</item>
+              </word>
+              <word guid="e76654df-a5af-4e6d-947d-31ac32819b00">
+                <item type="txt" lang="tau">Howard</item>
+              </word>
+              <word guid="87b831c7-a49f-4532-98b7-7c399a32e915">
+                <item type="txt" lang="tau">neek'eh</item>
+              </word>
+              <word guid="edbd6f02-700d-430c-9c6b-d9f24b83f3c4">
+                <item type="txt" lang="tau">t'eey</item>
+              </word>
+              <word guid="09d17ddc-f4a5-4abd-bafc-de9cc1b34e02">
+                <item type="txt" lang="tau">niich'inįhłaat</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And really our son Howard is parking behind us.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c273a5f9-40cc-40ea-8af9-1ac5f9b725cd">
+        <phrases>
+          <phrase guid="f87e1b7f-584e-4444-a041-19fbdeb1f2e8">
+            <item type="txt" lang="tau">Ay du': "Dii? </item>
+            <item type="segnum" lang="en">31.1</item>
+            <words>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="f46beacd-2b95-4197-8182-aee7f3f6f254">
+                <item type="txt" lang="tau">Dii</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He: "What?</item>
+          </phrase>
+          <phrase guid="e1a76de6-3950-4299-b7a7-48f70c7c5588">
+            <item type="txt" lang="tau">Dii? </item>
+            <item type="segnum" lang="en">31.2</item>
+            <words>
+              <word guid="f46beacd-2b95-4197-8182-aee7f3f6f254">
+                <item type="txt" lang="tau">Dii</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"> What?</item>
+          </phrase>
+          <phrase guid="f4cc91d6-38a7-4419-a3a8-e65e3b1503be">
+            <item type="txt" lang="tau">Dii ch'a dįh'ąy?"</item>
+            <item type="segnum" lang="en">31.3</item>
+            <words>
+              <word guid="f46beacd-2b95-4197-8182-aee7f3f6f254">
+                <item type="txt" lang="tau">Dii</item>
+              </word>
+              <word guid="d78fac72-897e-4c6a-a82f-477c158b3cec">
+                <item type="txt" lang="tau">ch'a</item>
+              </word>
+              <word guid="9338f369-079c-4d81-a312-f612d3adffc4">
+                <item type="txt" lang="tau">dįh'ąy</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">What are you messing with?"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f71cd166-787a-4031-b582-da2c66164e55">
+        <phrases>
+          <phrase guid="eacf0d7a-32d0-400b-b5ba-065984df06d0">
+            <item type="txt" lang="tau">"Shoh!"</item>
+            <item type="segnum" lang="en">32</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">Shoh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Bear!"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b2f316d3-c0f6-4f01-9166-1f4f0f635a8e">
+        <phrases>
+          <phrase guid="811df982-65a9-4c45-8579-f1530588fd20">
+            <item type="txt" lang="tau">``Dhakdayh hanuhshyign' tah dzina'altth'ät."</item>
+            <item type="segnum" lang="en">33</item>
+            <words>
+              <word guid="9501cf82-d2fd-4cc1-b383-3e865d96603b">
+                <item type="txt" lang="tau">``Dhakdayh</item>
+              </word>
+              <word guid="d69c8f8c-b8f4-431a-8aad-7f9ed6fc38a5">
+                <item type="txt" lang="tau">hanuhshyign'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="09e8f91d-5565-450a-ad40-1ff4b285e56a">
+                <item type="txt" lang="tau">dzina'altth'ät</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">."</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I was shooting and it tumbled down the slope.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a1baa67b-2279-46c6-8b20-8c44a3529d69">
+        <phrases>
+          <phrase guid="ee84a55f-40c5-4f33-9e0c-5f3e261f011d">
+            <item type="txt" lang="tau">Nuhshyign' ik'eh teltthät ikooneh'įh.</item>
+            <item type="segnum" lang="en">34</item>
+            <words>
+              <word guid="1d056b71-bebe-4148-8855-8910aefb0d2d">
+                <item type="txt" lang="tau">Nuhshyign'</item>
+              </word>
+              <word guid="5d5b02a9-10ab-4fcd-aa13-96caa305a9bb">
+                <item type="txt" lang="tau">ik'eh</item>
+              </word>
+              <word guid="94bc1d2b-acdd-491d-808d-4a41df8a5b39">
+                <item type="txt" lang="tau">teltthät</item>
+              </word>
+              <word guid="d6aa927f-1a55-4e6e-8779-eb4347a1d210">
+                <item type="txt" lang="tau">ikooneh'įh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He ran down, following its tracks looking for it.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="9debabd0-f1e7-4e29-82f4-844d0da2cb05">
+        <phrases>
+          <phrase guid="531e8047-1304-4e7a-a676-138c3cd66bc7">
+            <item type="txt" lang="tau">"Nday? </item>
+            <item type="segnum" lang="en">35.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="c3db526e-e6d1-460c-97f6-40ac0390331f">
+                <item type="txt" lang="tau">Nday</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Where?</item>
+          </phrase>
+          <phrase guid="779a2d74-b0d3-47d8-ba7b-a753901d996b">
+            <item type="txt" lang="tau">Nday?" </item>
+            <item type="segnum" lang="en">35.2</item>
+            <words>
+              <word guid="c3db526e-e6d1-460c-97f6-40ac0390331f">
+                <item type="txt" lang="tau">Nday</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Where?"</item>
+          </phrase>
+          <phrase guid="53e7714e-ec65-4aee-82c4-bfac823cf104">
+            <item type="txt" lang="tau">nih, mookol ashyign' eh.</item>
+            <item type="segnum" lang="en">35.3</item>
+            <words>
+              <word guid="820431fc-5475-4802-b57d-8716411f77b9">
+                <item type="txt" lang="tau">nih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="8910267b-5b13-4489-9d2f-203f1cebbeb5">
+                <item type="txt" lang="tau">mookol</item>
+              </word>
+              <word guid="78b6bf93-6c92-4c92-93cf-d407ccdc030b">
+                <item type="txt" lang="tau">ashyign'</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">he said, it had disappeared down there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="827df778-7752-42e3-aeb8-d14bfc9f892b">
+        <phrases>
+          <phrase guid="441fe76a-0461-47c2-9bad-a3365f0a3e78">
+            <item type="txt" lang="tau">Nushyign', tth'itu' nįįłąy ddhäł dą' nt'ay nushyign' tah eedah.</item>
+            <item type="segnum" lang="en">36</item>
+            <words>
+              <word guid="6bfe6548-36c4-4d2b-90cc-ee7a71861194">
+                <item type="txt" lang="tau">Nushyign'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="6ad2d6b1-6131-460f-9191-a3313060c5c3">
+                <item type="txt" lang="tau">tth'itu'</item>
+              </word>
+              <word guid="1f0371f0-de6f-4af6-8423-8d96d5702b06">
+                <item type="txt" lang="tau">nįįłąy</item>
+              </word>
+              <word guid="3f06520e-68af-481f-9af0-477144af3967">
+                <item type="txt" lang="tau">ddhäł</item>
+              </word>
+              <word guid="c155e131-9b11-4bf8-affc-c2d28c3b712e">
+                <item type="txt" lang="tau">dą'</item>
+              </word>
+              <word guid="b40f1c19-9d93-43df-adbf-6c4ef4ec4443">
+                <item type="txt" lang="tau">nt'ay</item>
+              </word>
+              <word guid="358bf4a1-3c6f-439a-9986-9513d3eb2733">
+                <item type="txt" lang="tau">nushyign'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="9e6f17da-b146-4b70-980a-af838b082fb0">
+                <item type="txt" lang="tau">eedah</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Way down, where the river is flowing, down the mountain, it was sitting.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="893e18b5-f1c8-4d06-8731-012adaa4955f">
+        <phrases>
+          <phrase guid="4d47965b-c2b0-4e9b-9b7b-2846169631b4">
+            <item type="txt" lang="tau">Utthi' da' ne', shoh ch'a.</item>
+            <item type="segnum" lang="en">37</item>
+            <words>
+              <word guid="093643bc-b56b-45dd-8715-06003f8ce709">
+                <item type="txt" lang="tau">Utthi'</item>
+              </word>
+              <word guid="0738420a-5881-450b-9e5f-6c4a987cf905">
+                <item type="txt" lang="tau">da'</item>
+              </word>
+              <word guid="5e8df62b-a313-48f8-8797-d028a7102616">
+                <item type="txt" lang="tau">ne'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="d78fac72-897e-4c6a-a82f-477c158b3cec">
+                <item type="txt" lang="tau">ch'a</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It was turning its head in different directions, the bear.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e1e4eea3-ab06-4eab-9343-d7f85146a1c9">
+        <phrases>
+          <phrase guid="84f64ace-2ca7-4eba-963f-8dcedcfc6e76">
+            <item type="txt" lang="tau">Eh its'ą̈' telthät tl'aan nahiidhehxiin nuhshyign' tah.</item>
+            <item type="segnum" lang="en">38</item>
+            <words>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">Eh</item>
+              </word>
+              <word guid="9c5d4b3f-2449-416c-b9de-45498ee10085">
+                <item type="txt" lang="tau">its'ą̈'</item>
+              </word>
+              <word guid="ad9699f6-1c6a-4583-9e39-280c28eb2150">
+                <item type="txt" lang="tau">telthät</item>
+              </word>
+              <word guid="3a8d4e9e-438f-4142-906f-78a1fca23b60">
+                <item type="txt" lang="tau">tl'aan</item>
+              </word>
+              <word guid="bb05d786-b0f5-4104-9cd5-2cd5015bf8ff">
+                <item type="txt" lang="tau">nahiidhehxiin</item>
+              </word>
+              <word guid="4824c1fe-c945-4c5d-b6db-fef9631dc82e">
+                <item type="txt" lang="tau">nuhshyign'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And he was running to it and then they killed it down there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="6514df2b-842b-4380-9286-48e053bce284">
+        <phrases>
+          <phrase guid="d849922d-e55e-4818-85bc-b3ec5cf832f1">
+            <item type="txt" lang="tau">Ndüü:::::h!</item>
+            <item type="segnum" lang="en">39</item>
+            <words>
+              <word guid="67f2c57d-27cc-415a-a610-73be4bfedadc">
+                <item type="txt" lang="tau">Ndüü</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:::::</item>
+              </word>
+              <word guid="92469439-3851-46be-8c0d-7a7601d0f6dd">
+                <item type="txt" lang="tau">h</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">It was heavy!</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="78b844f9-31e0-4d18-b30d-4d3e23124b98">
+        <phrases>
+          <phrase guid="bcfa21a4-87da-49dc-a072-78a1143ab219">
+            <item type="txt" lang="tau">Ch'itay ch'a [laughs] ch'ishyiign eh ehxaan du':</item>
+            <item type="segnum" lang="en">40</item>
+            <words>
+              <word guid="3e2cdf88-1c10-482d-8fee-f4324f393a9c">
+                <item type="txt" lang="tau">Ch'itay</item>
+              </word>
+              <word guid="d78fac72-897e-4c6a-a82f-477c158b3cec">
+                <item type="txt" lang="tau">ch'a</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">[</item>
+              </word>
+              <word guid="190945a1-aa60-4444-9894-0ce6918b539f">
+                <item type="txt" lang="tau">laughs</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">]</item>
+              </word>
+              <word guid="1fbdd8a9-7911-452c-9c2f-5bbedbf703db">
+                <item type="txt" lang="tau">ch'ishyiign</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="a4d7dc4a-b84e-40b0-a1c3-fd6912ab2c4d">
+                <item type="txt" lang="tau">ehxaan</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">That old man who was taking pictures [said]:</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="fd91d411-70d7-4cbd-bfc4-606ca631d88f">
+        <phrases>
+          <phrase guid="b9742c41-7100-46a6-ae88-2f4b1b3e85fd">
+            <item type="txt" lang="tau">"Shoh aldeeł?"</item>
+            <item type="segnum" lang="en">41</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">Shoh</item>
+              </word>
+              <word guid="6170d679-aaca-4976-a8ba-18d3ee96cf81">
+                <item type="txt" lang="tau">aldeeł</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Do you eat bear?"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="405efbc2-472f-48fa-acd0-88c2545c8c9d">
+        <phrases>
+          <phrase guid="9ec66868-6704-4af2-a6fb-236297f1f676">
+            <item type="txt" lang="tau">"Shoh aldeeł dii xah ch'a dįh'ąy?" </item>
+            <item type="segnum" lang="en">42.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">Shoh</item>
+              </word>
+              <word guid="6170d679-aaca-4976-a8ba-18d3ee96cf81">
+                <item type="txt" lang="tau">aldeeł</item>
+              </word>
+              <word guid="6a4cb7d1-f2fa-4bd5-8e38-b7664014abaa">
+                <item type="txt" lang="tau">dii</item>
+              </word>
+              <word guid="1378ce3c-303d-4194-93f4-456cab464b02">
+                <item type="txt" lang="tau">xah</item>
+              </word>
+              <word guid="d78fac72-897e-4c6a-a82f-477c158b3cec">
+                <item type="txt" lang="tau">ch'a</item>
+              </word>
+              <word guid="9338f369-079c-4d81-a312-f612d3adffc4">
+                <item type="txt" lang="tau">dįh'ąy</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Are you messing with it because you eat bear?"</item>
+          </phrase>
+          <phrase guid="390459d6-61cc-4136-801a-55c38ed84cfa">
+            <item type="txt" lang="tau">shehnih.</item>
+            <item type="segnum" lang="en">42.2</item>
+            <words>
+              <word guid="6b97a535-8d0d-4325-b77c-24b6dfded4b8">
+                <item type="txt" lang="tau">shehnih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">he said to me.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="641047df-db7e-4341-8f8a-5906bf2fa10d">
+        <phrases>
+          <phrase guid="78492f92-9b64-406a-b65a-04759bbaaab4">
+            <item type="txt" lang="tau">"Ąą, shiy ch'ale agndeel," udihnih.</item>
+            <item type="segnum" lang="en">43</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="0a2950b5-4da9-42b0-a5a9-cd779ceb27b1">
+                <item type="txt" lang="tau">Ąą</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="08a37f48-fd02-4f2a-abe8-fe4f47ae72d5">
+                <item type="txt" lang="tau">shiy</item>
+              </word>
+              <word guid="bc4089da-4d1d-477d-be74-cb9a09f3da8a">
+                <item type="txt" lang="tau">ch'ale</item>
+              </word>
+              <word guid="d86c7940-533e-4e11-ba78-6a354646db7e">
+                <item type="txt" lang="tau">agndeel</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,"</item>
+              </word>
+              <word guid="b8062577-b1a9-45f3-b233-d01a2f468d1b">
+                <item type="txt" lang="tau">udihnih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Yes, as for me, I eat them," I told him.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="e7020d01-cf7f-4f87-be88-fed5a5cf0d86">
+        <phrases>
+          <phrase guid="956d48ea-4314-4ad2-9b60-3cf12ed1f267">
+            <item type="txt" lang="tau">K'at'eey minaniich'akthädn eh ay du' agnthäł nts'ą̈' t'eey uu'akdiih ch'ale.</item>
+            <item type="segnum" lang="en">44</item>
+            <words>
+              <word guid="46233a8b-5c3c-4886-b013-a2aac85dd409">
+                <item type="txt" lang="tau">K'at'eey</item>
+              </word>
+              <word guid="c2406fee-8894-48dc-8f7c-183b8df7a9d9">
+                <item type="txt" lang="tau">minaniich'akthädn</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="4bfc32f1-e921-4f77-b157-0e5e605fc31b">
+                <item type="txt" lang="tau">ay</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word guid="3edc6df8-0f31-47dd-a45e-d5c24f4fbda4">
+                <item type="txt" lang="tau">agnthäł</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="edbd6f02-700d-430c-9c6b-d9f24b83f3c4">
+                <item type="txt" lang="tau">t'eey</item>
+              </word>
+              <word guid="d6014f9e-6265-4675-a769-b46ba6996ef2">
+                <item type="txt" lang="tau">uu'akdiih</item>
+              </word>
+              <word guid="bc4089da-4d1d-477d-be74-cb9a09f3da8a">
+                <item type="txt" lang="tau">ch'ale</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I didn't even think about it; I was running and then I was shooting it.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a0380684-b9fc-4e60-9356-11e6d29a2850">
+        <phrases>
+          <phrase guid="05ddb1de-999b-40f6-bb1c-00179517b960">
+            <item type="txt" lang="tau">Ch'itay du' k'at'eey minaniich'akthädn.</item>
+            <item type="segnum" lang="en">45</item>
+            <words>
+              <word guid="3e2cdf88-1c10-482d-8fee-f4324f393a9c">
+                <item type="txt" lang="tau">Ch'itay</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word guid="7f2bfe42-7e9b-4e4d-9dc5-7a9fbad30cdf">
+                <item type="txt" lang="tau">k'at'eey</item>
+              </word>
+              <word guid="c2406fee-8894-48dc-8f7c-183b8df7a9d9">
+                <item type="txt" lang="tau">minaniich'akthädn</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I wasn't thinking about that old man though.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="5e7c4e09-8bb5-4c66-aede-bc3455e6a068">
+        <phrases>
+          <phrase guid="bc3df42f-064f-4924-8901-548d76e92461">
+            <item type="txt" lang="tau">Shuudehka:::t.</item>
+            <item type="segnum" lang="en">46</item>
+            <words>
+              <word guid="289c18c4-0b3f-489b-be03-b59a17c88f7e">
+                <item type="txt" lang="tau">Shuudehka</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">:::</item>
+              </word>
+              <word guid="934a6333-7ccf-4b81-b19d-c48bb3c80da8">
+                <item type="txt" lang="tau">t</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He kept asking me questions.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="905c03a4-6bc0-4466-ad3a-de29a100700a">
+        <phrases>
+          <phrase guid="1f5110a8-9b06-402b-b915-1f04f69f5113">
+            <item type="txt" lang="tau">"Nday? </item>
+            <item type="segnum" lang="en">47.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="c3db526e-e6d1-460c-97f6-40ac0390331f">
+                <item type="txt" lang="tau">Nday</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Where?</item>
+          </phrase>
+          <phrase guid="ac36b2a7-1ddd-4d36-9487-e6c28ca7e6a9">
+            <item type="txt" lang="tau">Nday?"</item>
+            <item type="segnum" lang="en">47.2</item>
+            <words>
+              <word guid="c3db526e-e6d1-460c-97f6-40ac0390331f">
+                <item type="txt" lang="tau">Nday</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">?"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Where?"</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="d79180f3-09d2-4cfc-9e08-eb12afa21787">
+        <phrases>
+          <phrase guid="f68943fa-68fb-430e-a69a-d0672090f31e">
+            <item type="txt" lang="tau">"Ndee nushyign', tamaagn nts'ą̈' nushyign' tu tth'itu' nts'ą̈' tah shoh eedah."</item>
+            <item type="segnum" lang="en">48</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="42eb34c6-88e3-49fb-ad01-8075d98eda53">
+                <item type="txt" lang="tau">Ndee</item>
+              </word>
+              <word guid="358bf4a1-3c6f-439a-9986-9513d3eb2733">
+                <item type="txt" lang="tau">nushyign'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="db2398ec-a67b-4cec-b69d-506ee87d934f">
+                <item type="txt" lang="tau">tamaagn</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="358bf4a1-3c6f-439a-9986-9513d3eb2733">
+                <item type="txt" lang="tau">nushyign'</item>
+              </word>
+              <word guid="97ed9bd7-743d-497e-9dc0-3f54c8605a38">
+                <item type="txt" lang="tau">tu</item>
+              </word>
+              <word guid="6ad2d6b1-6131-460f-9191-a3313060c5c3">
+                <item type="txt" lang="tau">tth'itu'</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="79a1157b-6a4d-4e96-9a58-ea3b1dcb3982">
+                <item type="txt" lang="tau">shoh</item>
+              </word>
+              <word guid="9e6f17da-b146-4b70-980a-af838b082fb0">
+                <item type="txt" lang="tau">eedah</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">."</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"Way down there, at the water's edge, by the river, the bear is sitting."</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="502e9aec-05d6-40b4-a535-290a2a46316b">
+        <phrases>
+          <phrase guid="6f83abbc-c947-437d-8f7c-d868f0e53e5c">
+            <item type="txt" lang="tau">"Maa ni'uhshya' nts'ą̈' nok-'įį!" </item>
+            <item type="segnum" lang="en">49.1</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="73cb9840-a646-4945-a325-d266ebbb8d91">
+                <item type="txt" lang="tau">Maa</item>
+              </word>
+              <word guid="ade48957-cc08-4e76-aead-9927805e4f26">
+                <item type="txt" lang="tau">ni'uhshya'</item>
+              </word>
+              <word guid="8f4292e9-703a-4dbe-8d5b-73a277d7534c">
+                <item type="txt" lang="tau">nts'ą̈'</item>
+              </word>
+              <word guid="92f0a1b1-a207-49ba-a244-1f44caad525c">
+                <item type="txt" lang="tau">nok</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">-</item>
+              </word>
+              <word guid="a6b87883-6180-4234-b475-85a4a198afac">
+                <item type="txt" lang="tau">'įį</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">!"</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"I want to go there and see it!"</item>
+          </phrase>
+          <phrase guid="e8c0e8bf-2e9d-4b86-accd-cd6e443e3a92">
+            <item type="txt" lang="tau">nih.</item>
+            <item type="segnum" lang="en">49.2</item>
+            <words>
+              <word guid="820431fc-5475-4802-b57d-8716411f77b9">
+                <item type="txt" lang="tau">nih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">he said.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="563414ac-e0c7-41b9-9f6e-f36f8175af6b">
+        <phrases>
+          <phrase guid="78e68027-90b7-48e8-b7e9-7fc0aa81638e">
+            <item type="txt" lang="tau">"Ayt'oo, ayt'oo," udihnih.</item>
+            <item type="segnum" lang="en">50</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">"</item>
+              </word>
+              <word guid="f6e577c3-538f-4157-bbf4-5ed265fae2e4">
+                <item type="txt" lang="tau">Ayt'oo</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="84d79b19-1c04-49ca-bd55-9977a81370f1">
+                <item type="txt" lang="tau">ayt'oo</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,"</item>
+              </word>
+              <word guid="b8062577-b1a9-45f3-b233-d01a2f468d1b">
+                <item type="txt" lang="tau">udihnih</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">"It's alright, it's alright," I tell him.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="bfe1bf8c-f4e8-4f54-9f3f-f996b432f982">
+        <phrases>
+          <phrase guid="b1a2fe5a-188b-436c-8802-3acc72d183d1">
+            <item type="txt" lang="tau">Nushyign' tah ts'aahaal.</item>
+            <item type="segnum" lang="en">51</item>
+            <words>
+              <word guid="6bfe6548-36c4-4d2b-90cc-ee7a71861194">
+                <item type="txt" lang="tau">Nushyign'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="0b993442-ef8f-4557-8395-9cddb0f6d23a">
+                <item type="txt" lang="tau">ts'aahaal</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The two of us are walking down there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3372eeab-b815-4f32-9544-fb8720344c07">
+        <phrases>
+          <phrase guid="910acecd-094f-4d81-94a0-b135c22a07c3">
+            <item type="txt" lang="tau">Howard iin du' nushyign' tah hiik'anehta'.</item>
+            <item type="segnum" lang="en">52</item>
+            <words>
+              <word guid="e76654df-a5af-4e6d-947d-31ac32819b00">
+                <item type="txt" lang="tau">Howard</item>
+              </word>
+              <word guid="31b9e81b-c963-4beb-8852-420905a52a8a">
+                <item type="txt" lang="tau">iin</item>
+              </word>
+              <word guid="8f8da878-6648-4c0d-b61b-8a1db78a468b">
+                <item type="txt" lang="tau">du'</item>
+              </word>
+              <word guid="358bf4a1-3c6f-439a-9986-9513d3eb2733">
+                <item type="txt" lang="tau">nushyign'</item>
+              </word>
+              <word guid="ec98ad2e-f253-41b6-9c3f-6feb734e751f">
+                <item type="txt" lang="tau">tah</item>
+              </word>
+              <word guid="614796c9-f524-40f7-b117-879403e62cad">
+                <item type="txt" lang="tau">hiik'anehta'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Howard and the others down there are taking care of it.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="7a06cda4-fab6-48e6-b9d6-0863fac6fec5">
+        <phrases>
+          <phrase guid="d44df747-601d-4ffe-bbc2-dfe557574076">
+            <item type="txt" lang="tau">&lt;Ay&gt; ch'itay eh huxah ninįįshyah tl'aan nduugn nts'ą' natetshyah le' ishyiit nts'ą', k'at'eey udakkadn.</item>
+            <item type="segnum" lang="en">53</item>
+            <words>
+              <word>
+                <item type="punct" lang="tau">&lt;</item>
+              </word>
+              <word guid="9b953d27-8615-43cd-9018-c98779428446">
+                <item type="txt" lang="tau">Ay</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">&gt;</item>
+              </word>
+              <word guid="735389de-6741-493b-aace-58160ee8bc45">
+                <item type="txt" lang="tau">ch'itay</item>
+              </word>
+              <word guid="c9b84ef9-2e6f-4655-b1e3-36d63121e151">
+                <item type="txt" lang="tau">eh</item>
+              </word>
+              <word guid="0f131f1a-5bf0-4451-adf2-dbf0941941a3">
+                <item type="txt" lang="tau">huxah</item>
+              </word>
+              <word guid="ef202e74-7bb0-4528-86fe-5e8537b3d926">
+                <item type="txt" lang="tau">ninįįshyah</item>
+              </word>
+              <word guid="3a8d4e9e-438f-4142-906f-78a1fca23b60">
+                <item type="txt" lang="tau">tl'aan</item>
+              </word>
+              <word guid="3484b7c0-cc46-4286-a9fb-90e003b1c699">
+                <item type="txt" lang="tau">nduugn</item>
+              </word>
+              <word guid="b5f88f83-c100-4d2b-9a0b-fc1a4bba1d4d">
+                <item type="txt" lang="tau">nts'ą'</item>
+              </word>
+              <word guid="64ba1ed5-87b3-48a9-8ba2-4d36b8dd0e38">
+                <item type="txt" lang="tau">natetshyah</item>
+              </word>
+              <word guid="0b5a91a0-72c2-4787-b000-85708d9a5624">
+                <item type="txt" lang="tau">le'</item>
+              </word>
+              <word guid="fc667181-e5de-434a-8129-d36dc82fb31d">
+                <item type="txt" lang="tau">ishyiit</item>
+              </word>
+              <word guid="b5f88f83-c100-4d2b-9a0b-fc1a4bba1d4d">
+                <item type="txt" lang="tau">nts'ą'</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">,</item>
+              </word>
+              <word guid="7f2bfe42-7e9b-4e4d-9dc5-7a9fbad30cdf">
+                <item type="txt" lang="tau">k'at'eey</item>
+              </word>
+              <word guid="80ab5785-6568-4a8e-87ef-8bb7bb032ae6">
+                <item type="txt" lang="tau">udakkadn</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And that old man is walking up to them and I don't know where he went from there, I didn't ask.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2760efd3-1329-4b89-a285-451ed023eaef">
+        <phrases>
+          <phrase guid="3234637f-d649-499a-8996-46c2ac48c755">
+            <item type="txt" lang="tau">Ayt'oo t'axoh.</item>
+            <item type="segnum" lang="en">54</item>
+            <words>
+              <word guid="f6e577c3-538f-4157-bbf4-5ed265fae2e4">
+                <item type="txt" lang="tau">Ayt'oo</item>
+              </word>
+              <word guid="37531f34-dbc4-4cdb-b02e-78cbfb4a3fe4">
+                <item type="txt" lang="tau">t'axoh</item>
+              </word>
+              <word>
+                <item type="punct" lang="tau">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">That's it.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="tau" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

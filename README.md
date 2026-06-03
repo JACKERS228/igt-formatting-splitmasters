@@ -1,21 +1,30 @@
+
 # IGT Data Examples
-Examples illustrating how interlinear glossed text (IGT) data is formatted in various computational (UD CoNLL-U TXT), archival (CLDF CSV) and fieldwork software formats (ELAN & FLEx XML).
-
-*MELD = Machine Learning for Endangered Language Documentation Lab @ University of Florida*
-
+This repository contains examples illustrating how the same data (in different languages)  is formatted in various computational, archival, and fieldwork software formats.
+## Computational Data Formats
+* Universal Dependencies CoNLL-U (*.conllu*); [Schema](https://universaldependencies.org/format.html)
+## Archival Data Formats
+* Cross-Linguistic Data Formats CLDF (*-CLDF.csv*); [GitHub](https://github.com/cldf/cldf), [Ontology](https://cldf.clld.org/v1.0/terms.rdf) (Download)
+## Linguistic Field Work Software Data Formats
+* Max Planck Institute for Psycholinguistics, ELAN (*.eaf*) (XML)
+* Summer Institute of Linguistics, FieldWorks Language Explorer (FLEx)
+	* Interlinear Texts (*.flextext*) (XML)
+		* Represent, in XML, the structure of an interlinear glossed text, a method linguists use to break words into smaller units of meaning.
+	* FLEx Project Files (*.fwbackup*, *.fwdata*)
 ## Metadata
-| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source file name          |
-|:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
-| Akan (aka)                | Akan Corpus 1.0 $\rightarrow$ CLDF Cookbook                | TypeCraft->CLDF| ELAN, FLEx, CLDF, CoNLL-U       | |
-| Arabic (ara)              | Arabic-PADT UD Treebank                       | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
-| English (eng)             | Georgetown University Multilayer Corpus (GUM) | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
-| Hindi (hin)               | Hindi UD Treebank                             | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
-| Mandarin Chinese (cmn)    | UD Chinese Beginner Treebank                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
-| Russian (rus)             | Taiga Corpus                                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | |
-| Xibe (sjo)                | UD Xibe Treebank                              | CoNLL-U        | CLDF, ELAN, FLEx | |
-| Upper Tanana (tau)        | Olga Lovick                                   | ELAN           |   ELAN, FLEx, CLDF               | UTOFLA09Aug1201-18620.eaf |
-| Dene Suline (chp)         | Olga Lovick                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | NET-2020-05-29-TDC.eaf    |
-| Alas Kluet (btz)          | Adnrew Brumleve                               | FLEx           |                  | btz-all_txts_ORIGINAL.flextext |
+The examples in this repository fall into 2 categories; **Simplified** and **Realistic**. **Simplified** data is much less extensive and is meant to quickly and simplistically represent how the same data can appear in the various formats. **Realistic** data is significantly more extensive and is meant to realistically illustrate how real project data would look converted between formats.
+|Type| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source File Name |
+|:-------------:|:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
+|Simp.| Akan (aka)                | [TypeCraft Akan Corpus 1.0]((https://typecraft.org/tc2wiki/TypeCraft_Akan_Data_Collection_Release_1.0)) via [CLDF Cookbook](https://github.com/cldf/cookbook)                | TypeCraft->CLDF| ELAN, FLEx, CLDF, CoNLL-U       |Release 1.0.zip |
+|Simp.| Arabic (ara)              | [UD Arabic-PADT Treebank](http://hdl.handle.net/11234/1-6149)                       | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Simp.| English (eng)             | [UD Georgetown University Multilayer Corpus (GUM)](http://hdl.handle.net/11234/1-6149) | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Simp.| Hindi (hin)               | [UD Hindi Treebank](http://hdl.handle.net/11234/1-6149)                             | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Simp.| Mandarin Chinese (cmn)    | [UD Chinese Beginner Treebank](http://hdl.handle.net/11234/1-6149)                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Simp.| Russian (rus)             | [UD Taiga Corpus](http://hdl.handle.net/11234/1-6149)                                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Simp.| Xibe (sjo)                | [UD Xibe Treebank](http://hdl.handle.net/11234/1-6149)                              | CoNLL-U        | ELAN, FLEx CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
+|Real.| Upper Tanana (tau)        | [Olga Lovick](https://artsandscience.usask.ca/profile/OLovick)                                   | ELAN           |   ELAN, FLEx, CLDF               | UTOFLA09Aug1201-18620.eaf |
+|Real.| Dene Suline (chp)         | [Olga Lovick](https://artsandscience.usask.ca/profile/OLovick)                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | NET-2020-05-29-TDC.eaf    |
+|Real.| Alas Kluet (btz)          | [Andrew Brumleve](ajbrumleve.github.io)                               | FLEx           |                 --- | btz-all_txts_ORIGINAL.flextext |
   
 
 ## Notes

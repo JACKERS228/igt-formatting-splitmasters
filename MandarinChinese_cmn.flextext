@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="8f0f54a3-dd68-47b9-aa53-1db9d0acd1f4">
+    <item type="title" lang="en">4290</item>
+    <item type="source" lang="en">https://resources.allsetlearning.com/chinese/grammar/ASGYXI5X</item>
+    <item type="comment" lang="en">Providing two options with double "huozhe"</item>
+    <item type="date-created" lang="en">2026-05-12 13:46:43.594</item>
+    <item type="date-modified" lang="en">2026-05-15 13:25:18.767</item>
+    <paragraphs>
+      <paragraph guid="5d0f273a-9c54-430c-abc5-03498fbecfd4">
+        <phrases>
+          <phrase guid="4129cc9c-4e2d-4d95-baa9-1558ca726ee2">
+            <item type="txt" lang="zh-CN">我 想 了 很 久，这 个 答案 或者 是 三 十，或者 是 四 十，对 不 对？</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="67627ef3-2281-4c19-a525-f2be68519240">
+                <item type="txt" lang="zh-CN">我</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">我</item>
+                    <item type="txt" lang="zh-Latn">wǒ</item>
+                    <item type="cf" lang="zh-CN">我</item>
+                    <item type="gls" lang="en">1SG</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">1</item>
+              </word>
+              <word guid="f3f9da61-cc4d-4f28-a74d-12d35597dcf0">
+                <item type="txt" lang="zh-CN">想</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">想</item>
+                    <item type="txt" lang="zh-Latn">xiǎng</item>
+                    <item type="cf" lang="zh-CN">想</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8f0d06b3-0ed5-4a94-bb6a-ff41cdb8bfbb">
+                <item type="txt" lang="zh-CN">了</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">了</item>
+                    <item type="txt" lang="zh-Latn">le</item>
+                    <item type="cf" lang="zh-CN">了</item>
+                    <item type="gls" lang="en">PFV</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PFV</item>
+              </word>
+              <word guid="dc79a9b1-29f9-46ac-bb2d-6553666f9718">
+                <item type="txt" lang="zh-CN">很</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">很</item>
+                    <item type="txt" lang="zh-Latn">hěn</item>
+                    <item type="cf" lang="zh-CN">很</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="95c85e4a-0794-4380-aac3-87430cd3439a">
+                <item type="txt" lang="zh-CN">久</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">久</item>
+                    <item type="txt" lang="zh-Latn">jǐu</item>
+                    <item type="cf" lang="zh-CN">久</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="zh-CN">，</item>
+              </word>
+              <word guid="edec3c64-1a91-41d4-adaa-27151e5f0b40">
+                <item type="txt" lang="zh-CN">这</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">这</item>
+                    <item type="txt" lang="zh-Latn">zhè</item>
+                    <item type="cf" lang="zh-CN">这</item>
+                    <item type="gls" lang="en">DEM.PROX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.PROX</item>
+              </word>
+              <word guid="32da2247-b162-4ed5-b2cc-80fc07a3ec65">
+                <item type="txt" lang="zh-CN">个</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">个</item>
+                    <item type="txt" lang="zh-Latn">gè</item>
+                    <item type="cf" lang="zh-CN">个</item>
+                    <item type="gls" lang="en">CLF</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CLF</item>
+              </word>
+              <word guid="6a5ad5f7-35b3-4851-a1c7-4f418f07d44d">
+                <item type="txt" lang="zh-CN">答案</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">答案</item>
+                    <item type="txt" lang="zh-Latn">dá'àn</item>
+                    <item type="cf" lang="zh-CN">答案</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="43e52651-fcc8-4a69-861a-5981068814f3">
+                <item type="txt" lang="zh-CN">或者</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">或者</item>
+                    <item type="txt" lang="zh-Latn">huòzhě</item>
+                    <item type="cf" lang="zh-CN">或者</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="88084e73-f279-424b-8991-20b8dd0e00a7">
+                <item type="txt" lang="zh-CN">是</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">是</item>
+                    <item type="txt" lang="zh-Latn">shì</item>
+                    <item type="cf" lang="zh-CN">是</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="36558ceb-4d43-4cbc-8e72-b510c7c9d6b7">
+                <item type="txt" lang="zh-CN">三</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">三</item>
+                    <item type="txt" lang="zh-Latn">sān</item>
+                    <item type="cf" lang="zh-CN">三</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CARD</item>
+              </word>
+              <word guid="11d335e8-b018-4f1b-a099-3167bae19c16">
+                <item type="txt" lang="zh-CN">十</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">十</item>
+                    <item type="txt" lang="zh-Latn">shí</item>
+                    <item type="cf" lang="zh-CN">十</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CARD</item>
+              </word>
+              <word>
+                <item type="punct" lang="zh-CN">，</item>
+              </word>
+              <word guid="43e52651-fcc8-4a69-861a-5981068814f3">
+                <item type="txt" lang="zh-CN">或者</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">或者</item>
+                    <item type="txt" lang="zh-Latn">huòzhě</item>
+                    <item type="cf" lang="zh-CN">或者</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="88084e73-f279-424b-8991-20b8dd0e00a7">
+                <item type="txt" lang="zh-CN">是</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">是</item>
+                    <item type="txt" lang="zh-Latn">shì</item>
+                    <item type="cf" lang="zh-CN">是</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="eb703cd4-8707-4d10-a7c0-8e8db084cf04">
+                <item type="txt" lang="zh-CN">四</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">四</item>
+                    <item type="txt" lang="zh-Latn">sì</item>
+                    <item type="cf" lang="zh-CN">四</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CARD</item>
+              </word>
+              <word guid="11d335e8-b018-4f1b-a099-3167bae19c16">
+                <item type="txt" lang="zh-CN">十</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">十</item>
+                    <item type="txt" lang="zh-Latn">shí</item>
+                    <item type="cf" lang="zh-CN">十</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CARD</item>
+              </word>
+              <word>
+                <item type="punct" lang="zh-CN">，</item>
+              </word>
+              <word guid="f5659f61-bd11-453a-be59-9ff451488c3c">
+                <item type="txt" lang="zh-CN">对</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">对</item>
+                    <item type="txt" lang="zh-Latn">dùi</item>
+                    <item type="cf" lang="zh-CN">对</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3690c0ad-537e-4315-a077-2f2c7f7558ae">
+                <item type="txt" lang="zh-CN">不</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">不</item>
+                    <item type="txt" lang="zh-Latn">bù</item>
+                    <item type="cf" lang="zh-CN">不</item>
+                    <item type="gls" lang="en">NEG</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NEG</item>
+              </word>
+              <word guid="f5659f61-bd11-453a-be59-9ff451488c3c">
+                <item type="txt" lang="zh-CN">对</item>
+                <item type="txt" lang="zh-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="zh-CN">对</item>
+                    <item type="txt" lang="zh-Latn">dùi</item>
+                    <item type="cf" lang="zh-CN">对</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="zh-CN">？</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">I've thought about it for a long time. The answer is either thirty or forty, right?</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="zh-CN" font="PMingLiU" vernacular="true" />
+      <language lang="zh-Latn" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

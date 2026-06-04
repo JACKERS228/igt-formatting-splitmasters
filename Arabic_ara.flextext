@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="9793f2d0-15af-467e-a987-d0d648dcf9a2">
+    <item type="title" lang="en">assabah.20041005.0017:p2u1</item>
+    <item type="source" lang="en">ASB_ARB_20041005.0017#2</item>
+    <item type="date-created" lang="en">2026-05-12 16:51:39.723</item>
+    <item type="date-modified" lang="en">2026-05-12 18:39:16.304</item>
+    <paragraphs>
+      <paragraph guid="01aa5fce-be17-4631-940d-347c95736694">
+        <phrases>
+          <phrase guid="07de20be-3d58-4cbe-95ca-32dd6308fcfd">
+            <item type="txt" lang="ar">دمشق (وكالات الانباء) - اجرى الرئيس السوري بشار الاسد تعديلا حكومياً واسعا تم بموجبه إقالة وزيري الداخلية والاعلام عن منصبيها في حين ظل محمد ناجي العطري رئيساً للحكومة.</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="9e0627a3-38c2-42a6-9e07-b8ec76d5b74a">
+                <item type="txt" lang="ar">دمشق</item>
+                <item type="txt" lang="ar-Latn">dmšq</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">دمشق</item>
+                    <item type="txt" lang="ar-Latn">dmšq</item>
+                    <item type="cf" lang="ar">دمشق</item>
+                    <item type="cf" lang="ar-Latn">dmšq</item>
+                    <item type="gls" lang="en">Damascus</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Damascus</item>
+              </word>
+              <word>
+                <item type="punct" lang="ar">(</item>
+              </word>
+              <word guid="6e084a7f-fcbd-4510-b803-09a6b4c09960">
+                <item type="txt" lang="ar">وكالات</item>
+                <item type="txt" lang="ar-Latn">wikālātu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">وكال</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">وكالة</item>
+                    <item type="cf" lang="ar-Latn">wikālat</item>
+                    <item type="gls" lang="en">agency</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-ات</item>
+                    <item type="txt" lang="ar-Latn">-āt</item>
+                    <item type="cf" lang="ar">-ات</item>
+                    <item type="cf" lang="ar-Latn">-āt</item>
+                    <item type="gls" lang="en">Fem.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NOM.CONSTR.PL</item>
+              </word>
+              <word guid="5c04be0f-7566-4d60-b5a9-f15f79191b22">
+                <item type="txt" lang="ar">الانباء</item>
+                <item type="txt" lang="ar-Latn">al-ʾanbāʾi</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="ar">الانباء</item>
+                    <item type="txt" lang="ar-Latn">al</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">GEN.DEF.PL</item>
+              </word>
+              <word>
+                <item type="punct" lang="ar">)</item>
+              </word>
+              <word>
+                <item type="punct" lang="ar">-</item>
+              </word>
+              <word guid="3f25b201-2926-4441-b07c-83d715cf340b">
+                <item type="txt" lang="ar">اجرى</item>
+                <item type="txt" lang="ar-Latn">ʾaǧrā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">اجرى</item>
+                    <item type="txt" lang="ar-Latn">ʾaǧrā</item>
+                    <item type="cf" lang="ar">اجرى</item>
+                    <item type="cf" lang="ar-Latn">ʾaǧrā</item>
+                    <item type="gls" lang="en">carry out</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PFV.MASC.SG.3.ACT</item>
+              </word>
+              <word guid="2a9e8d02-0ba1-465d-845b-7d3a75aa321a">
+                <item type="txt" lang="ar">الرئيس</item>
+                <item type="txt" lang="ar-Latn">ar-raʾīsu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">رئيس</item>
+                    <item type="txt" lang="ar-Latn">raʾīs</item>
+                    <item type="cf" lang="ar">رئيس</item>
+                    <item type="cf" lang="ar-Latn">raʾīs</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NOM.DEF.SG</item>
+              </word>
+              <word guid="ff18343b-4c28-476b-96ab-c1b5d2104b2b">
+                <item type="txt" lang="ar">السوري</item>
+                <item type="txt" lang="ar-Latn">as-sūrīyu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">السوري</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">سوري</item>
+                    <item type="cf" lang="ar-Latn">sūrīy</item>
+                    <item type="gls" lang="en">Syrian</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Syrian</item>
+              </word>
+              <word guid="ec2f67c9-d299-42bd-a123-f1848813443d">
+                <item type="txt" lang="ar">بشار الاسد</item>
+                <item type="txt" lang="ar-Latn">bšār ālāsd</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="ar">بشار</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="ar">الاسد</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="21aa7337-04b4-4d80-86c0-edfba4581c0a">
+                <item type="txt" lang="ar">تعديلا</item>
+                <item type="txt" lang="ar-Latn">taʿdīlan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">تعديل</item>
+                    <item type="txt" lang="ar-Latn">taʿdīl</item>
+                    <item type="cf" lang="ar">تعديل</item>
+                    <item type="cf" lang="ar-Latn">taʿdīl</item>
+                    <item type="gls" lang="en">change</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-ا</item>
+                    <item type="txt" lang="ar-Latn">-an</item>
+                    <item type="cf" lang="ar">-اً</item>
+                    <item type="variantTypes" lang="en">+sp. var. of</item>
+                    <item type="cf" lang="ar-Latn">-an</item>
+                    <item type="variantTypes" lang="en">+sp. var. of</item>
+                    <item type="gls" lang="en">Acc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ACC.NDEF.SG</item>
+              </word>
+              <word guid="f2bd0947-b7da-4197-844d-2f4174a59329">
+                <item type="txt" lang="ar">حكومياً</item>
+                <item type="txt" lang="ar-Latn">ḥukūmīyan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">حكومي</item>
+                    <item type="txt" lang="ar-Latn">ḥukūmīy</item>
+                    <item type="cf" lang="ar">حكومي</item>
+                    <item type="cf" lang="ar-Latn">ḥukūmīy</item>
+                    <item type="gls" lang="en">governmental</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-اً</item>
+                    <item type="txt" lang="ar-Latn">-an</item>
+                    <item type="cf" lang="ar">-اً</item>
+                    <item type="cf" lang="ar-Latn">-an</item>
+                    <item type="gls" lang="en">Acc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ACC.NDEF.MASC.SG</item>
+              </word>
+              <word guid="7a7797bf-f942-482a-86ef-7095623b75ee">
+                <item type="txt" lang="ar">واسعا</item>
+                <item type="txt" lang="ar-Latn">wāsiʿan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">واسع</item>
+                    <item type="txt" lang="ar-Latn">wāsiʿ</item>
+                    <item type="cf" lang="ar">واسع</item>
+                    <item type="cf" lang="ar-Latn">wāsiʿ</item>
+                    <item type="gls" lang="en">wide</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-ا</item>
+                    <item type="txt" lang="ar-Latn">-an</item>
+                    <item type="cf" lang="ar">-اً</item>
+                    <item type="variantTypes" lang="en">+sp. var. of</item>
+                    <item type="cf" lang="ar-Latn">-an</item>
+                    <item type="variantTypes" lang="en">+sp. var. of</item>
+                    <item type="gls" lang="en">Acc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ACC.NDEF.MASC.SG</item>
+              </word>
+              <word guid="e953c862-70a7-419f-a75c-e2120c00401a">
+                <item type="txt" lang="ar">تم</item>
+                <item type="txt" lang="ar-Latn">tamma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">تم</item>
+                    <item type="txt" lang="ar-Latn">tamm</item>
+                    <item type="cf" lang="ar">تم</item>
+                    <item type="cf" lang="ar-Latn">tamm</item>
+                    <item type="gls" lang="en">conclude</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PFV.MASC.SG.3.ACT</item>
+              </word>
+              <word guid="d4afbf10-411f-446d-9f46-27c699fbd64e">
+                <item type="txt" lang="ar">بموجبه</item>
+                <item type="txt" lang="ar-Latn">bimūǧibihi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">بموجبه</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">موجب</item>
+                    <item type="cf" lang="ar-Latn">mūǧib</item>
+                    <item type="gls" lang="en">reason</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">reason</item>
+              </word>
+              <word guid="9e0577a9-9ae1-484a-9fed-2eed79754f69">
+                <item type="txt" lang="ar">إقالة</item>
+                <item type="txt" lang="ar-Latn">ʾiqālatu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">إقالة</item>
+                    <item type="txt" lang="ar-Latn">ʾiqālat</item>
+                    <item type="cf" lang="ar">إقالة</item>
+                    <item type="cf" lang="ar-Latn">ʾiqālat</item>
+                    <item type="gls" lang="en">dismissal</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NOM.CONST.SG</item>
+              </word>
+              <word guid="81e766a7-2ba1-47e4-a166-fd3e15796bbc">
+                <item type="txt" lang="ar">وزيري</item>
+                <item type="txt" lang="ar-Latn">wazīray</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">وزير</item>
+                    <item type="txt" lang="ar-Latn">wazīr</item>
+                    <item type="cf" lang="ar">وزير</item>
+                    <item type="cf" lang="ar-Latn">wazīr</item>
+                    <item type="gls" lang="en">minister</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-ي</item>
+                    <item type="txt" lang="ar-Latn">-ay</item>
+                    <item type="cf" lang="ar">-ي</item>
+                    <item type="cf" lang="ar-Latn">-ay</item>
+                    <item type="gls" lang="en">Dual</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">GEN.CONST.DU</item>
+              </word>
+              <word guid="ee38822c-7473-467c-a547-2ffcd3faaaa6">
+                <item type="txt" lang="ar">الداخلية</item>
+                <item type="txt" lang="ar-Latn">ad-dāḫilīyati</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">الداخلية</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">داخلي</item>
+                    <item type="cf" lang="ar-Latn">dāḫilīy</item>
+                    <item type="gls" lang="en">internal</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">internal</item>
+              </word>
+              <word guid="2591f372-d93e-4bdf-ad83-bb65a673f906">
+                <item type="txt" lang="ar">والاعلام</item>
+                <item type="txt" lang="ar-Latn">waal-ʾiʿlāmi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">و</item>
+                    <item type="txt" lang="ar-Latn">wa</item>
+                    <item type="cf" lang="ar">و</item>
+                    <item type="cf" lang="ar-Latn">wa</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">الاعلام</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">اعلام</item>
+                    <item type="cf" lang="ar-Latn">ʾiʿlām</item>
+                    <item type="gls" lang="en">information</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+              </word>
+              <word guid="fc337e0d-e4f8-43b4-8f27-3e84ac005146">
+                <item type="txt" lang="ar">عن</item>
+                <item type="txt" lang="ar-Latn">ʿan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">عن</item>
+                    <item type="txt" lang="ar-Latn">ʿan</item>
+                    <item type="cf" lang="ar">عن</item>
+                    <item type="cf" lang="ar-Latn">ʿan</item>
+                    <item type="gls" lang="en">about</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PREP</item>
+              </word>
+              <word guid="b856e425-5eef-4289-a26c-daab3550423c">
+                <item type="txt" lang="ar">منصبيها</item>
+                <item type="txt" lang="ar-Latn">manṣibayhā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">منصبيها</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">منصب</item>
+                    <item type="cf" lang="ar-Latn">manṣib</item>
+                    <item type="gls" lang="en">post</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">post</item>
+              </word>
+              <word guid="96b6cfa5-c533-4e12-ab3c-966c83f477c2">
+                <item type="txt" lang="ar">في</item>
+                <item type="txt" lang="ar-Latn">fī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">في</item>
+                    <item type="txt" lang="ar-Latn">fī</item>
+                    <item type="cf" lang="ar">في</item>
+                    <item type="cf" lang="ar-Latn">fī</item>
+                    <item type="gls" lang="en">in</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PREP</item>
+              </word>
+              <word guid="26163b69-b6a0-4f0e-9875-2004b44e58f7">
+                <item type="txt" lang="ar">حين</item>
+                <item type="txt" lang="ar-Latn">ḥīni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">حين</item>
+                    <item type="txt" lang="ar-Latn">ḥīna</item>
+                    <item type="cf" lang="ar">حين</item>
+                    <item type="cf" lang="ar-Latn">ḥīna</item>
+                    <item type="gls" lang="en">when</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PREP.GEN</item>
+              </word>
+              <word guid="a350e8a7-e4f5-454d-8f47-4ff060fa3f08">
+                <item type="txt" lang="ar">ظل</item>
+                <item type="txt" lang="ar-Latn">ẓalla</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">ظل</item>
+                    <item type="txt" lang="ar-Latn">ẓall</item>
+                    <item type="cf" lang="ar">ظل</item>
+                    <item type="cf" lang="ar-Latn">ẓall</item>
+                    <item type="gls" lang="en">remain</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PFV.MASC.SG.3.ACT</item>
+              </word>
+              <word guid="a901f16b-bc82-4691-940f-1c43a372bbde">
+                <item type="txt" lang="ar">محمد ناجي العطري</item>
+                <item type="txt" lang="ar-Latn">mḥmd nāǧy ālʿṭry</item>
+                <morphemes>
+                  <morph>
+                    <item type="txt" lang="ar">محمد</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="ar">ناجي</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                  </morph>
+                  <morph>
+                    <item type="txt" lang="ar">العطري</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="54b3c5ac-6d78-40ca-98b8-2dde52e1ea32">
+                <item type="txt" lang="ar">رئيساً</item>
+                <item type="txt" lang="ar-Latn">raʾīsan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">رئيس</item>
+                    <item type="txt" lang="ar-Latn">raʾīs</item>
+                    <item type="cf" lang="ar">رئيس</item>
+                    <item type="cf" lang="ar-Latn">raʾīs</item>
+                    <item type="gls" lang="en">president</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">-اً</item>
+                    <item type="txt" lang="ar-Latn">-an</item>
+                    <item type="cf" lang="ar">-اً</item>
+                    <item type="cf" lang="ar-Latn">-an</item>
+                    <item type="gls" lang="en">Acc</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">ACC.NDEF.SG</item>
+              </word>
+              <word guid="56b05694-902e-446d-829f-69433a8f0818">
+                <item type="txt" lang="ar">للحكومة</item>
+                <item type="txt" lang="ar-Latn">lial-ḥukūmati</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ar">للحكومة</item>
+                    <item type="txt" lang="ar-Latn"></item>
+                    <item type="cf" lang="ar">حكومة</item>
+                    <item type="cf" lang="ar-Latn">ḥukūmat</item>
+                    <item type="gls" lang="en">government</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">government</item>
+              </word>
+              <word>
+                <item type="punct" lang="ar">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"></item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="ar" font="Noto Sans Arabic" vernacular="true" RightToLeft="true" />
+      <language lang="ar-Latn" font="Noto Sans Arabic" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

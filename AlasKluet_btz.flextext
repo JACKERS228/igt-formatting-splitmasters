@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="01eaa864-422a-4cb8-ad66-f0e76cfc4c95">
+    <item type="title" lang="btz">1 - Si Layakh 8.2</item>
+    <item type="source" lang="en">https://kaisosogarcia.blogspot.com/2016/04/si-layakh-cerita-rakyat-dari-kutacane.html</item>
+    <item type="comment" lang="en">This appears to be a translation of part of the story from https://kaisosogarcia.blogspot.com/2016/04/si-layakh-cerita-rakyat-dari-kutacane.html. However, I have been told the Alas is good in it.</item>
+    <item type="date-created" lang="en">2026-05-13 18:08:14.757</item>
+    <item type="date-modified" lang="en">2026-05-14 13:59:13.967</item>
+    <paragraphs>
+      <paragraph guid="d3a38931-bbb4-456f-89ff-5355a7198d56">
+        <phrases>
+          <phrase guid="b59dd7d4-827f-4945-8522-e4ef386f0609">
+            <item type="txt" lang="btz">khut mebelin ate te penuh hakhapen balik lah kalaki me tanoh alas khut medalan kiding memengketi nangkihe datas tanoh kakho.</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="9c83b0df-6e6a-495a-8885-95264464de7c">
+                <item type="txt" lang="btz">khut</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">khut</item>
+                    <item type="cf" lang="btz">khut</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+              </word>
+              <word guid="ee821a79-9399-4108-91df-96771802fdaa">
+                <item type="txt" lang="btz">mebelin</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">me-</item>
+                    <item type="cf" lang="btz">me-</item>
+                    <item type="hn" lang="btz">
+                      <run lang="btz" style="Homograph-Number">1</run>
+                    </item>
+                    <item type="gls" lang="en">to be</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">belin</item>
+                    <item type="cf" lang="btz">mbelin</item>
+                    <item type="gls" lang="en">large</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to be large</item>
+              </word>
+              <word guid="927e6337-5f95-4f57-9a62-d55bc223e6dc">
+                <item type="txt" lang="btz">ate</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">ate</item>
+                    <item type="cf" lang="btz">ate</item>
+                    <item type="gls" lang="en">heart</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">heart</item>
+              </word>
+              <word guid="6cb5c1cf-96df-43b7-a8ee-7009a16ffa87">
+                <item type="txt" lang="btz">te</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">te</item>
+                    <item type="cf" lang="btz">te</item>
+                    <item type="gls" lang="en">and</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">and</item>
+              </word>
+              <word guid="d4883132-0287-461f-ba22-a398663d1453">
+                <item type="txt" lang="btz">penuh</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">penuh</item>
+                    <item type="cf" lang="btz">penuh</item>
+                    <item type="gls" lang="en">to be full</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to be full</item>
+              </word>
+              <word guid="78443f4e-5a37-4b07-95f0-fa831f650bc3">
+                <item type="txt" lang="btz">hakhapen</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">hakhap</item>
+                    <item type="cf" lang="btz">hakhap</item>
+                    <item type="gls" lang="en">hope, to</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">-en</item>
+                    <item type="cf" lang="btz">-en</item>
+                    <item type="gls" lang="en">object of verb</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hope, to</item>
+              </word>
+              <word guid="0c3a512f-085a-47ef-8771-bb340590ab0b">
+                <item type="txt" lang="btz">balik lah</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">balik</item>
+                    <item type="cf" lang="btz">bhalik</item>
+                    <item type="gls" lang="en">return home, to</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">=lah</item>
+                    <item type="cf" lang="btz">=lah</item>
+                    <item type="gls" lang="en">=fronted element</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">return home, to</item>
+              </word>
+              <word guid="c14cc454-a603-4e4b-804b-939f6964968c">
+                <item type="txt" lang="btz">kalaki</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">kalaki</item>
+                    <item type="cf" lang="btz">kalaki</item>
+                    <item type="gls" lang="en">3mp</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3mp</item>
+              </word>
+              <word guid="a98f4acb-c40d-48ba-946c-99ca5d4e68b6">
+                <item type="txt" lang="btz">me</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">me</item>
+                    <item type="cf" lang="btz">bhe</item>
+                    <item type="gls" lang="en">to, toward (a place)</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to, toward (a place)</item>
+              </word>
+              <word guid="525a5205-cb9c-45b8-9d29-1fce703de759">
+                <item type="txt" lang="btz">tanoh</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">tanoh</item>
+                    <item type="cf" lang="btz">tanoh</item>
+                    <item type="gls" lang="en">land</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">land</item>
+              </word>
+              <word guid="d8158e4d-321a-4b0d-b128-f55ccba01080">
+                <item type="txt" lang="btz">alas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">alas</item>
+                    <item type="cf" lang="btz">alas</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">alas</item>
+              </word>
+              <word guid="a86e4c80-1675-4036-83eb-c0edc568af79">
+                <item type="txt" lang="btz">khut</item>
+                <morphemes analysisStatus="guess">
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">khut</item>
+                    <item type="cf" lang="btz">khut</item>
+                    <item type="gls" lang="en">with</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">with</item>
+              </word>
+              <word guid="b276b80a-d170-455f-9d3a-64e0eba1f91c">
+                <item type="txt" lang="btz">medalan kiding</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">me-</item>
+                    <item type="cf" lang="btz">me-</item>
+                    <item type="hn" lang="btz">
+                      <run lang="btz" style="Homograph-Number">2</run>
+                    </item>
+                    <item type="gls" lang="en">to do</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">dalan</item>
+                    <item type="cf" lang="btz">dhalan</item>
+                    <item type="gls" lang="en">road</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">kiding</item>
+                    <item type="cf" lang="btz">kidhing</item>
+                    <item type="gls" lang="en">foot</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">travel by foot</item>
+              </word>
+              <word guid="6a8c9960-410d-4e38-9cf8-9b3cd81c5bb4">
+                <item type="txt" lang="btz">memengketi</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">mem-</item>
+                    <item type="cf" lang="btz">meN-</item>
+                    <item type="gls" lang="en">active voice</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">mengket</item>
+                    <item type="cf" lang="btz">mengket</item>
+                    <item type="gls" lang="en">enter, to</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">-i</item>
+                    <item type="cf" lang="btz">-i</item>
+                    <item type="gls" lang="en">durative?</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to enter</item>
+              </word>
+              <word guid="f17b1cbc-afa8-4c31-aedd-f48410847e4f">
+                <item type="txt" lang="btz">nangkihe</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">nangkihe</item>
+                    <item type="cf" lang="btz">nangkihe</item>
+                    <item type="gls" lang="en">go up, climb</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">go up, climb</item>
+              </word>
+              <word guid="83bd0cf0-80cf-44ac-9ff9-0563eafe164b">
+                <item type="txt" lang="btz">datas</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">datas</item>
+                    <item type="cf" lang="btz">datas</item>
+                    <item type="gls" lang="en">top</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">top</item>
+              </word>
+              <word guid="412ad727-5b2f-4439-af2e-7e4f36848743">
+                <item type="txt" lang="btz">tanoh</item>
+                <morphemes analysisStatus="guess">
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">tanoh</item>
+                    <item type="cf" lang="btz">tanoh</item>
+                    <item type="gls" lang="en">land</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">land</item>
+              </word>
+              <word guid="09f2ce8a-10fb-45fa-81f8-90f03f2d6f22">
+                <item type="txt" lang="btz">kakho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="btz">kakho</item>
+                    <item type="cf" lang="btz">kakho</item>
+                    <item type="gls" lang="en">Karo</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Karo</item>
+              </word>
+              <word>
+                <item type="punct" lang="btz">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">With encouragement and hope they returned to the Alas Land on foot entering the Karo highlands.</item>
+            <item type="gls" lang="zlm">Dengan berbesar hati dan penuh harapan pulanglah mereka ke Tanah Alas dengan berjalan kaki memasuki dataran tinggi Tanah Karo</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="btz" font="Charis SIL" vernacular="true" />
+      <language lang="en" font="Times New Roman" />
+      <language lang="zlm" font="Charis" />
+    </languages>
+  </interlinear-text>
+</document>

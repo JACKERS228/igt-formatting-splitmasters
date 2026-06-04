@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="1fd8c176-2c86-4e75-8869-f02242e7ac1e">
+    <item type="title" lang="en">test-s28</item>
+    <item type="source" lang="en">hi_hdtb-ud-test.conllu Hindi UD treebank</item>
+    <item type="date-created" lang="en">2026-05-11 17:42:27.298</item>
+    <item type="date-modified" lang="en">2026-05-15 13:22:58.598</item>
+    <paragraphs>
+      <paragraph guid="2b39bf21-34f8-498c-af13-7f6840a9b435">
+        <phrases>
+          <phrase guid="db5e40f7-24d8-466a-8d87-2e4f8400a617">
+            <item type="txt" lang="hi">इंदौर में जिस प्रकार से शेरोंवाली माँ की पूजा आस्था तथा विश्वास के साथ की जाती है उसी विश्वास के साथ कोलकाता में काली माँ की पूजा की जाती है ।</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="cb81565c-9902-41a4-83a2-629ef898442f">
+                <item type="txt" lang="hi">इंदौर</item>
+                <item type="txt" lang="hi-Latn">iṁdaura</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">इंदौर</item>
+                    <item type="txt" lang="hi-Latn">iṁdaura</item>
+                    <item type="cf" lang="hi">इंदौर</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNP.Acc.Masc.Sing.3</item>
+              </word>
+              <word guid="acca4ffd-73d0-456b-a2b4-e8e353cb2575">
+                <item type="txt" lang="hi">में</item>
+                <item type="txt" lang="hi-Latn">meṁ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">में</item>
+                    <item type="txt" lang="hi-Latn">meṁ</item>
+                    <item type="cf" lang="hi">में</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post</item>
+              </word>
+              <word guid="f6ca7460-c695-4cc4-9ff7-84f5d08a08e5">
+                <item type="txt" lang="hi">जिस प्रकार से</item>
+                <item type="txt" lang="hi-Latn">jisa prakāra se</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">जिस</item>
+                    <item type="txt" lang="hi-Latn">jisa</item>
+                    <item type="cf" lang="hi">जो</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">प्रकार</item>
+                    <item type="txt" lang="hi-Latn">prakāra</item>
+                    <item type="cf" lang="hi">प्रकार</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">से</item>
+                    <item type="txt" lang="hi-Latn">se</item>
+                    <item type="cf" lang="hi">से</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.Acc.Sing.3.Dem NOUN.Acc.Masc.Sing.3 PSP.Post</item>
+              </word>
+              <word guid="4b5f5c01-ab54-4072-b039-f2332aded997">
+                <item type="txt" lang="hi">शेरोंवाली माँ</item>
+                <item type="txt" lang="hi-Latn">śeroṁvālī mām̃</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">शेरोंवाली</item>
+                    <item type="txt" lang="hi-Latn">śeroṁvālī</item>
+                    <item type="cf" lang="hi">शेरोंवाली</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">माँ</item>
+                    <item type="txt" lang="hi-Latn">mām̃</item>
+                    <item type="cf" lang="hi">माँ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNPC.Nom.Fem.Sing.3 NNP.Acc.Fem.Sing.3</item>
+              </word>
+              <word guid="235d6c1d-4171-43ba-a28f-f0eac2f4e0b2">
+                <item type="txt" lang="hi">की</item>
+                <item type="txt" lang="hi-Latn">kī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">का</item>
+                    <item type="txt" lang="hi-Latn">kā</item>
+                    <item type="cf" lang="hi">का</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post.Nom.Fem.Sing</item>
+              </word>
+              <word guid="70ff7ffa-13ec-43db-be45-03bcffd64a0f">
+                <item type="txt" lang="hi">पूजा</item>
+                <item type="txt" lang="hi-Latn">pūjā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">पूजा</item>
+                    <item type="txt" lang="hi-Latn">pūjā</item>
+                    <item type="cf" lang="hi">पूजा</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Nom.Fem.Sing.3</item>
+              </word>
+              <word guid="5955068e-e07f-427e-8571-71abbf8c746a">
+                <item type="txt" lang="hi">आस्था</item>
+                <item type="txt" lang="hi-Latn">āsthā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">आस्था</item>
+                    <item type="txt" lang="hi-Latn">āsthā</item>
+                    <item type="cf" lang="hi">आस्था</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Acc.Fem.Sing.3</item>
+              </word>
+              <word guid="e8cb6056-f1a0-4a1d-9350-e6c26803bf4c">
+                <item type="txt" lang="hi">तथा</item>
+                <item type="txt" lang="hi-Latn">tathā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">तथा</item>
+                    <item type="txt" lang="hi-Latn">tathā</item>
+                    <item type="cf" lang="hi">तथा</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CC</item>
+              </word>
+              <word guid="7156bcb9-0869-483c-b57b-dd5225b47dea">
+                <item type="txt" lang="hi">विश्वास</item>
+                <item type="txt" lang="hi-Latn">viśvāsa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">विश्वास</item>
+                    <item type="txt" lang="hi-Latn">viśvāsa</item>
+                    <item type="cf" lang="hi">विश्वास</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Acc.Masc.Sing.3</item>
+              </word>
+              <word guid="518e7ef7-bc4d-44a8-9187-1b73f6e61e09">
+                <item type="txt" lang="hi">के</item>
+                <item type="txt" lang="hi-Latn">ke</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">के</item>
+                    <item type="txt" lang="hi-Latn">ke</item>
+                    <item type="cf" lang="hi">के</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post</item>
+              </word>
+              <word guid="cacc8cf3-5796-478a-a313-27a12bce8ce9">
+                <item type="txt" lang="hi">साथ</item>
+                <item type="txt" lang="hi-Latn">sātha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">साथ</item>
+                    <item type="txt" lang="hi-Latn">sātha</item>
+                    <item type="cf" lang="hi">साथ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NST.Post.Nom.Masc.Sing.3</item>
+              </word>
+              <word guid="cf5a74ba-057c-43a2-a3fe-bfaee7ef20a7">
+                <item type="txt" lang="hi">की</item>
+                <item type="txt" lang="hi-Latn">kī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">का</item>
+                    <item type="txt" lang="hi-Latn">kā</item>
+                    <item type="cf" lang="hi">का</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VM.Perf.Fem.Sing.3.Part.Act</item>
+              </word>
+              <word guid="fe7fc4ab-e2b7-440e-8781-79593dca7ddf">
+                <item type="txt" lang="hi">जाती</item>
+                <item type="txt" lang="hi-Latn">jātī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">जाती</item>
+                    <item type="txt" lang="hi-Latn">jātī</item>
+                    <item type="cf" lang="hi">जाती</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VAUX.Imp.Fem.Sing.Part</item>
+              </word>
+              <word guid="8011586d-9944-404e-b865-8a8565d37eab">
+                <item type="txt" lang="hi">है</item>
+                <item type="txt" lang="hi-Latn">hai</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">है</item>
+                    <item type="txt" lang="hi-Latn">hai</item>
+                    <item type="cf" lang="hi">है</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VAUX.Ind.Sing.3.Pres.Fin</item>
+              </word>
+              <word guid="f1e5b6c8-5169-49a2-81ee-3c03d117b12d">
+                <item type="txt" lang="hi">उसी</item>
+                <item type="txt" lang="hi-Latn">usī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">उसी</item>
+                    <item type="txt" lang="hi-Latn">usī</item>
+                    <item type="cf" lang="hi">उसी</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEM.Acc.Sing.3.Dem</item>
+              </word>
+              <word guid="7156bcb9-0869-483c-b57b-dd5225b47dea">
+                <item type="txt" lang="hi">विश्वास</item>
+                <item type="txt" lang="hi-Latn">viśvāsa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">विश्वास</item>
+                    <item type="txt" lang="hi-Latn">viśvāsa</item>
+                    <item type="cf" lang="hi">विश्वास</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Acc.Masc.Sing.3</item>
+              </word>
+              <word guid="518e7ef7-bc4d-44a8-9187-1b73f6e61e09">
+                <item type="txt" lang="hi">के</item>
+                <item type="txt" lang="hi-Latn">ke</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">के</item>
+                    <item type="txt" lang="hi-Latn">ke</item>
+                    <item type="cf" lang="hi">के</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post</item>
+              </word>
+              <word guid="cacc8cf3-5796-478a-a313-27a12bce8ce9">
+                <item type="txt" lang="hi">साथ</item>
+                <item type="txt" lang="hi-Latn">sātha</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">साथ</item>
+                    <item type="txt" lang="hi-Latn">sātha</item>
+                    <item type="cf" lang="hi">साथ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NST.Post.Nom.Masc.Sing.3</item>
+              </word>
+              <word guid="854d42fb-12a5-4c04-9900-6821c3bd319d">
+                <item type="txt" lang="hi">कोलकाता</item>
+                <item type="txt" lang="hi-Latn">kolakātā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">कोलकाता</item>
+                    <item type="txt" lang="hi-Latn">kolakātā</item>
+                    <item type="cf" lang="hi">कोलकाता</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNP.Acc.Masc.Sing.3</item>
+              </word>
+              <word guid="acca4ffd-73d0-456b-a2b4-e8e353cb2575">
+                <item type="txt" lang="hi">में</item>
+                <item type="txt" lang="hi-Latn">meṁ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">में</item>
+                    <item type="txt" lang="hi-Latn">meṁ</item>
+                    <item type="cf" lang="hi">में</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post</item>
+              </word>
+              <word guid="c3ba4051-ac99-4137-a6a8-e0571ff4a8b6">
+                <item type="txt" lang="hi">काली माँ</item>
+                <item type="txt" lang="hi-Latn">kālī mām̃</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">काली</item>
+                    <item type="txt" lang="hi-Latn">kālī</item>
+                    <item type="cf" lang="hi">काली</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">माँ</item>
+                    <item type="txt" lang="hi-Latn">mām̃</item>
+                    <item type="cf" lang="hi">माँ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNP.Nom.Fem.Sing.3</item>
+              </word>
+              <word guid="235d6c1d-4171-43ba-a28f-f0eac2f4e0b2">
+                <item type="txt" lang="hi">की</item>
+                <item type="txt" lang="hi-Latn">kī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">का</item>
+                    <item type="txt" lang="hi-Latn">kā</item>
+                    <item type="cf" lang="hi">का</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PSP.Post.Nom.Fem.Sing</item>
+              </word>
+              <word guid="70ff7ffa-13ec-43db-be45-03bcffd64a0f">
+                <item type="txt" lang="hi">पूजा</item>
+                <item type="txt" lang="hi-Latn">pūjā</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">पूजा</item>
+                    <item type="txt" lang="hi-Latn">pūjā</item>
+                    <item type="cf" lang="hi">पूजा</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Nom.Fem.Sing.3</item>
+              </word>
+              <word guid="00e4a4e4-329a-4fa7-9841-d91cf22913ab">
+                <item type="txt" lang="hi">की</item>
+                <item type="txt" lang="hi-Latn">kī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">की</item>
+                    <item type="txt" lang="hi-Latn">kī</item>
+                    <item type="cf" lang="hi">करना</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VM.Perf.Fem.Sing.3.Part.Act</item>
+              </word>
+              <word guid="fe7fc4ab-e2b7-440e-8781-79593dca7ddf">
+                <item type="txt" lang="hi">जाती</item>
+                <item type="txt" lang="hi-Latn">jātī</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">जाती</item>
+                    <item type="txt" lang="hi-Latn">jātī</item>
+                    <item type="cf" lang="hi">जाती</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VAUX.Imp.Fem.Sing.Part</item>
+              </word>
+              <word guid="8011586d-9944-404e-b865-8a8565d37eab">
+                <item type="txt" lang="hi">है</item>
+                <item type="txt" lang="hi-Latn">hai</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="hi">है</item>
+                    <item type="txt" lang="hi-Latn">hai</item>
+                    <item type="cf" lang="hi">है</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VAUX.Ind.Sing.3.Pres.Fin</item>
+              </word>
+              <word>
+                <item type="punct" lang="hi">।</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Just as Sherawali Maa is worshipped in Indore with faith and devotion, Maa Kali is worshipped in Kolkata with that very same faith.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="hi" font="Annapurna SIL" vernacular="true" />
+      <language lang="hi-Latn" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

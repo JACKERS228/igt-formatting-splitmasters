@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="ea0ac281-15dd-4202-9275-bbbe9226ca8f">
+    <item type="title" lang="en">grammarbook_sjo_p5_97</item>
+    <item type="source" lang="en">File: sjo_xdt-ud-test.conllu | Corpus: UD Xibe Treebank</item>
+    <item type="date-created" lang="en">2026-05-12 14:54:52.949</item>
+    <item type="date-modified" lang="en">2026-05-15 13:44:47.112</item>
+    <paragraphs>
+      <paragraph guid="c79c4b80-79f2-4667-90fa-d59c93f24cdf">
+        <phrases>
+          <phrase guid="db76055e-645a-4308-9c8d-9f6bec3f5eb7">
+            <item type="txt" lang="sjo-x-manchu">ᡝᠷᡝ ᠣᠴᡞ ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ ᡝᡪᡝᠨ ᡞ ᡥᡝᠰᡝ ᠪᡝ ᠠᠯᡞᡫᡞ , ᠮᡠᡣᡩᡝᠨ ᡞ ᡥᠠᠷᠠᡢᡤᠠ ᠪᠠ ᡩᡝᠷᡞ ᡨᠣᠮᡞᠯᠠᡫᡞ , ᡞᠯᡞ ᠪᠠ ᡩᡝ ᡨᡝᠪᡠᠨᡝᠮᡝ , ᡤᡠᠷᡠᠨ ᡞ ᡪᡝᠴᡝᠨ ᠪᡝ ᠰᡝᠷᡝᠮᡧᡝᠮᡝ ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ ᡝᠮᡠ ᠮᡞᡢᡤᠠᠨ ᠰᡞᠪᡝ  ᡞ ᡥᠠᡫᠠᠨ ᠴᠣᡠᡥᠠ ᡞ ᡪᠠᡞ ᠮᡝᠶᡝᠨ ᡞᠨᡠ 。</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="dbaae5b9-b2ca-41b0-862e-3bbf9ba8215f">
+                <item type="txt" lang="sjo-x-manchu">ᡝᠷᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡝᠷᡝ</item>
+                    <item type="txt" lang="sjo-Latn">ere</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡝᠷᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Dem</item>
+              </word>
+              <word guid="0925b2aa-e6a5-431c-9611-b785cf6000f6">
+                <item type="txt" lang="sjo-x-manchu">ᠣᠴᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠣᠴᡞ</item>
+                    <item type="txt" lang="sjo-Latn">oci</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠣᠴᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="7deb79ae-42ac-4ffe-b07d-0cbd918c790f">
+                <item type="txt" lang="sjo-x-manchu">ᠠᠪᡣᠠᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠠᠪᡣᠠᡞ</item>
+                    <item type="txt" lang="sjo-Latn">abkai</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠠᠪᡣᠠᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="053b2a0c-1ef9-4e60-aa68-34df88e32964">
+                <item type="txt" lang="sjo-x-manchu">ᠸᡝᡥᡞᠶᡝᡥᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠸᡝᡥᡞᠶᡝᡥᡝ</item>
+                    <item type="txt" lang="sjo-Latn">wehiyehe</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠸᡝᡥᡞᠶᡝᡥᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="eb883b3d-77b4-4a58-8a82-dbf63d519e16">
+                <item type="txt" lang="sjo-x-manchu">ᡝᡪᡝᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡝᡪᡝᠨ</item>
+                    <item type="txt" lang="sjo-Latn">ejen</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡝᡪᡝᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aef234c5-62e0-46b4-a4b3-df7f040e7f70">
+                <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="txt" lang="sjo-Latn">i</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="072c654f-472e-402c-b50b-f8a2b6bf8b9c">
+                <item type="txt" lang="sjo-x-manchu">ᡥᡝᠰᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡥᡝᠰᡝ</item>
+                    <item type="txt" lang="sjo-Latn">hese</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡥᡝᠰᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f25344a5-6f12-4592-a1a9-62ca7069a397">
+                <item type="txt" lang="sjo-x-manchu">ᠪᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠪᡝ</item>
+                    <item type="txt" lang="sjo-Latn">be</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠪᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Acc</item>
+              </word>
+              <word guid="07591f63-5dd8-4178-9733-da4e2a4edfd8">
+                <item type="txt" lang="sjo-x-manchu">ᠠᠯᡞᡫᡞ</item>
+                <item type="txt" lang="sjo-Latn">alifi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠠᠯᡞᡫᡞ</item>
+                    <item type="txt" lang="sjo-Latn"></item>
+                    <item type="cf" lang="sjo-x-manchu">ᠠᠯᡞᠮᠪᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Perf.Conv</item>
+              </word>
+              <word>
+                <item type="punct" lang="sjo-x-manchu">,</item>
+              </word>
+              <word guid="013c16b7-e308-420d-a455-c58a5958138a">
+                <item type="txt" lang="sjo-x-manchu">ᠮᡠᡣᡩᡝᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠮᡠᡣᡩᡝᠨ</item>
+                    <item type="txt" lang="sjo-Latn">mukden</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠮᡠᡣᡩᡝᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aef234c5-62e0-46b4-a4b3-df7f040e7f70">
+                <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="txt" lang="sjo-Latn">i</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="6c80ec37-e9e1-4fe5-81dd-feebffa8d497">
+                <item type="txt" lang="sjo-x-manchu">ᡥᠠᠷᠠᡢᡤᠠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡥᠠᠷᠠᡢᡤᠠ</item>
+                    <item type="txt" lang="sjo-Latn">harangga</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡥᠠᠷᠠᡢᡤᠠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a0f9ab1d-57b4-4402-8cc6-9cc59dfe3533">
+                <item type="txt" lang="sjo-x-manchu">ᠪᠠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠪᠠ</item>
+                    <item type="txt" lang="sjo-Latn">ba</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠪᠠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="7b76a975-6e77-4105-9690-6a9fa0795e3b">
+                <item type="txt" lang="sjo-x-manchu">ᡩᡝᠷᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡩᡝᠷᡞ</item>
+                    <item type="txt" lang="sjo-Latn">deri</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡩᡝᠷᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Abl</item>
+              </word>
+              <word guid="b5afc432-5bb7-484a-ae18-115c7cfda20f">
+                <item type="txt" lang="sjo-x-manchu">ᡨᠣᠮᡞᠯᠠᡫᡞ</item>
+                <item type="txt" lang="sjo-Latn">tomilafi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡨᠣᠮᡞᠯᠠᡫᡞ</item>
+                    <item type="txt" lang="sjo-Latn"></item>
+                    <item type="cf" lang="sjo-x-manchu">ᡨᠣᠮᡞᠯᠠᠮᠪᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Perf.Conv</item>
+              </word>
+              <word>
+                <item type="punct" lang="sjo-x-manchu">,</item>
+              </word>
+              <word guid="99ee8a78-188d-40d8-9a20-16b2cb6b805a">
+                <item type="txt" lang="sjo-x-manchu">ᡞᠯᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞᠯᡞ</item>
+                    <item type="txt" lang="sjo-Latn">ili</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞᠯᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a0f9ab1d-57b4-4402-8cc6-9cc59dfe3533">
+                <item type="txt" lang="sjo-x-manchu">ᠪᠠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠪᠠ</item>
+                    <item type="txt" lang="sjo-Latn">ba</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠪᠠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="623321da-c886-4a68-8522-68a3e96f90f8">
+                <item type="txt" lang="sjo-x-manchu">ᡩᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡩᡝ</item>
+                    <item type="txt" lang="sjo-Latn">de</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡩᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Lat</item>
+              </word>
+              <word guid="b454524c-7fdd-47dc-8cb9-02e135a5f945">
+                <item type="txt" lang="sjo-x-manchu">ᡨᡝᠪᡠᠨᡝᠮᡝ</item>
+                <item type="txt" lang="sjo-Latn">tebuneme</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡨᡝᠪᡠᠨᡝᠮᡝ</item>
+                    <item type="txt" lang="sjo-Latn"></item>
+                    <item type="cf" lang="sjo-x-manchu">ᡨᡝᠪᡠᠨᡝᠮᠪᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Imp.Conv</item>
+              </word>
+              <word>
+                <item type="punct" lang="sjo-x-manchu">,</item>
+              </word>
+              <word guid="c2389142-74a4-47e4-b1f4-affca915a387">
+                <item type="txt" lang="sjo-x-manchu">ᡤᡠᠷᡠᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡤᡠᠷᡠᠨ</item>
+                    <item type="txt" lang="sjo-Latn">gurun</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡤᡠᠷᡠᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aef234c5-62e0-46b4-a4b3-df7f040e7f70">
+                <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="txt" lang="sjo-Latn">i</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="4994c142-1fcc-4e5d-a55d-de38fe5c4dba">
+                <item type="txt" lang="sjo-x-manchu">ᡪᡝᠴᡝᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡪᡝᠴᡝᠨ</item>
+                    <item type="txt" lang="sjo-Latn">jecen</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡪᡝᠴᡝᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f25344a5-6f12-4592-a1a9-62ca7069a397">
+                <item type="txt" lang="sjo-x-manchu">ᠪᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠪᡝ</item>
+                    <item type="txt" lang="sjo-Latn">be</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠪᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Acc</item>
+              </word>
+              <word guid="7d1474b3-da63-4546-9a9f-6c89b63576ca">
+                <item type="txt" lang="sjo-x-manchu">ᠰᡝᠷᡝᠮᡧᡝᠮᡝ</item>
+                <item type="txt" lang="sjo-Latn">seremšeme</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠰᡝᠷᡝᠮᡧᡝᠮᡝ</item>
+                    <item type="txt" lang="sjo-Latn"></item>
+                    <item type="cf" lang="sjo-x-manchu">ᠰᡝᠷᡝᠮᡧᡝᠮᠪᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Imp.Conv</item>
+              </word>
+              <word guid="a8836008-0570-4bbb-a135-3608a2b1f6c1">
+                <item type="txt" lang="sjo-x-manchu">ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ</item>
+                <item type="txt" lang="sjo-Latn">tuwakiyara</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ</item>
+                    <item type="txt" lang="sjo-Latn"></item>
+                    <item type="cf" lang="sjo-x-manchu">ᡨᡠᠸᠠᡣᡞᠶᠠᠮᠪᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Imp.Part</item>
+              </word>
+              <word guid="2a93baa2-fc5e-44cc-ba5c-5070b28fc5b6">
+                <item type="txt" lang="sjo-x-manchu">ᡝᠮᡠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡝᠮᡠ</item>
+                    <item type="txt" lang="sjo-Latn">emu</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡝᠮᡠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Card</item>
+              </word>
+              <word guid="a508daf9-dcd3-4bb4-83f4-15208e0cbee1">
+                <item type="txt" lang="sjo-x-manchu">ᠮᡞᡢᡤᠠᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠮᡞᡢᡤᠠᠨ</item>
+                    <item type="txt" lang="sjo-Latn">minggan</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠮᡞᡢᡤᠠᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Card</item>
+              </word>
+              <word guid="ccafd46f-5ebf-4f63-9bd4-fd7ca8258919">
+                <item type="txt" lang="sjo-x-manchu">ᠰᡞᠪᡝ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠰᡞᠪᡝ</item>
+                    <item type="txt" lang="sjo-Latn">sibe</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠰᡞᠪᡝ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aef234c5-62e0-46b4-a4b3-df7f040e7f70">
+                <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="txt" lang="sjo-Latn">i</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="01b32f9f-8b41-4f60-9e16-29450f4cb796">
+                <item type="txt" lang="sjo-x-manchu">ᡥᠠᡫᠠᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡥᠠᡫᠠᠨ</item>
+                    <item type="txt" lang="sjo-Latn">hafan</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡥᠠᡫᠠᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a0840f42-9975-4e99-abc0-1294647e158c">
+                <item type="txt" lang="sjo-x-manchu">ᠴᠣᡠᡥᠠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠴᠣᡠᡥᠠ</item>
+                    <item type="txt" lang="sjo-Latn">cooha</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠴᠣᡠᡥᠠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="aef234c5-62e0-46b4-a4b3-df7f040e7f70">
+                <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="txt" lang="sjo-Latn">i</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen</item>
+              </word>
+              <word guid="2336824e-ed86-40de-96a6-9026d2014f9a">
+                <item type="txt" lang="sjo-x-manchu">ᡪᠠᡞ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡪᠠᡞ</item>
+                    <item type="txt" lang="sjo-Latn">jai</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡪᠠᡞ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Ord</item>
+              </word>
+              <word guid="94721314-cbe4-47ad-a816-27c17eab74d1">
+                <item type="txt" lang="sjo-x-manchu">ᠮᡝᠶᡝᠨ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᠮᡝᠶᡝᠨ</item>
+                    <item type="txt" lang="sjo-Latn">meyen</item>
+                    <item type="cf" lang="sjo-x-manchu">ᠮᡝᠶᡝᠨ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9261e050-6f22-4194-9eef-6e621c3fa01d">
+                <item type="txt" lang="sjo-x-manchu">ᡞᠨᡠ</item>
+                <item type="txt" lang="sjo-Latn"></item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="sjo-x-manchu">ᡞᠨᡠ</item>
+                    <item type="txt" lang="sjo-Latn">inu</item>
+                    <item type="cf" lang="sjo-x-manchu">ᡞᠨᡠ</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="sjo-x-manchu">。</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">This is the second batch among the 1000 soldiers who were selected from areas near Mukden and set off to defend the Ili border under the decree of the Qianlong Emperor.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="0b901e0d-077e-404c-9464-bc1572681648" />
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="sjo-x-manchu" font="Noto Sans Mongolian" vernacular="true" />
+      <language lang="sjo-Latn" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

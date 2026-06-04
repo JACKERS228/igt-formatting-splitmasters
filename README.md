@@ -26,7 +26,7 @@ The examples in this repository fall into 2 categories; **Simplified** and **Rea
 |Simp.| Mandarin Chinese (cmn)    | [UD Chinese Beginner Treebank](http://hdl.handle.net/11234/1-6149)                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
 |Simp.| Russian (rus)             | [UD Taiga Corpus](http://hdl.handle.net/11234/1-6149)                                  | CoNLL-U        | ELAN, FLEx, CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
 |Simp.| Xibe (sjo)                | [UD Xibe Treebank](http://hdl.handle.net/11234/1-6149)                              | CoNLL-U        | ELAN, FLEx CLDF, CoNLL-U | ud-treebanks-v2.18.tgz|
-|Real.| Upper Tanana (tau)        | [Olga Lovick](https://artsandscience.usask.ca/profile/OLovick)                                   | ELAN           |   ELAN, FLEx, CLDF               | UTOFLA09Aug1201-18620.eaf |
+|Real.| Upper Tanana (tau)        | [Olga Lovick](https://artsandscience.usask.ca/profile/OLovick)                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | UTOFLA09Aug1201-18620.eaf |
 |Real.| Dene Suline (chp)         | [Olga Lovick](https://artsandscience.usask.ca/profile/OLovick)                                   | ELAN           |   ELAN, FLEx, CLDF, CoNLL-U               | NET-2020-05-29-TDC.eaf    |
 
 ## Technical Notes & Schema Edge Cases

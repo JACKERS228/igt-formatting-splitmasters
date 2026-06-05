@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="506a93a2-8037-4081-bb64-af83ef0e1565">
+    <item type="title" lang="en">Wonderful Abstract Notions</item>
+    <item type="source" lang="en">https://www.linguistics.ucsb.edu/research/santa-barbara-corpus#SBC017</item>
+    <item type="comment" lang="en">(human1) Two friends discuss a cartoon called 'The Scientist' that symbolizes the limitations of the scientific method, contrasting unquestioned adherence to the scientific method with Einstein's new ways of doing things, as well as how technology today is soulless and tied to consumerism.</item>
+    <item type="title-abbreviation" lang="en">GUM_conversation_scientist</item>
+    <item type="notebook-record" guid="d2fe4964-f7be-4a8e-92ad-634c004bdc72" lang="en"></item>
+    <item type="genre" guid="c14b2590-ea5e-11de-85fc-0013722f8dec" lang="en">Conversation</item>
+    <item type="date-created" lang="en">2026-05-11 13:12:08.931</item>
+    <item type="date-modified" lang="en">2026-05-15 13:20:47.218</item>
+    <objects>
+      <object type="NotebookRecord" guid="d2fe4964-f7be-4a8e-92ad-634c004bdc72">
+        <item type="roled-participants" guid="1f923bdc-d218-409a-81c8-a6979673af8a" lang="en"></item>
+        <item type="source" guid="5d543e4f-50d7-41fe-93a7-cf851c1d229e" lang="en">Jim</item>
+      </object>
+      <object type="RoledParticipants" guid="1f923bdc-d218-409a-81c8-a6979673af8a">
+        <item type="participant" guid="5d543e4f-50d7-41fe-93a7-cf851c1d229e" lang="en">Jim</item>
+        <item type="participant" guid="65bef09a-af48-4335-bca9-f90093e887bc" lang="en">Michael</item>
+      </object>
+    </objects>
+    <paragraphs>
+      <paragraph guid="4bcba1e7-b6e9-4bed-8e9a-054d4a2f1cb5">
+        <phrases>
+          <phrase guid="7cd4d565-d001-41da-ab19-7a35448c415a">
+            <item type="txt" lang="en">And scientists are, are taking such control over the world these days, uh with their n-, you know, not the scientists, but what they 've invented.</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="5de8ed7c-4175-4680-ae33-63eb30a989a9">
+                <item type="txt" lang="en">And</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">and</item>
+                    <item type="cf" lang="en">and</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CC</item>
+              </word>
+              <word guid="2859653a-1624-404c-957f-445c18c933dd">
+                <item type="txt" lang="en">scientists</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">scientists</item>
+                    <item type="cf" lang="en">scientists</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNS</item>
+              </word>
+              <word guid="f37d23c6-ece8-43bd-91ac-dd865799a2e7">
+                <item type="txt" lang="en">are</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">are</item>
+                    <item type="cf" lang="en">be</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBP</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="f37d23c6-ece8-43bd-91ac-dd865799a2e7">
+                <item type="txt" lang="en">are</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">are</item>
+                    <item type="cf" lang="en">be</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBP</item>
+              </word>
+              <word guid="ec3942e7-5450-46c9-9158-c10072c4f099">
+                <item type="txt" lang="en">taking</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">tak</item>
+                    <item type="cf" lang="en">take</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ing</item>
+                    <item type="cf" lang="en">-ing</item>
+                    <item type="gls" lang="en">Pres.Part</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBG.Pres.Part</item>
+              </word>
+              <word guid="f9243998-5ab4-4611-a539-0dcccdf5b8ac">
+                <item type="txt" lang="en">such</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">such</item>
+                    <item type="cf" lang="en">such</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">JJ</item>
+              </word>
+              <word guid="ad8bb4d9-6272-4cda-9090-e1b732fb48d6">
+                <item type="txt" lang="en">control</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">control</item>
+                    <item type="cf" lang="en">control</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Sing</item>
+              </word>
+              <word guid="6aa19bf9-b0e3-4c81-a07c-c726d0cca8b5">
+                <item type="txt" lang="en">over</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">over</item>
+                    <item type="cf" lang="en">over</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">IN</item>
+              </word>
+              <word guid="261c03db-3ffc-4b89-a268-edf82409435c">
+                <item type="txt" lang="en">the</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">the</item>
+                    <item type="cf" lang="en">the</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DT.Def.Art</item>
+              </word>
+              <word guid="07402073-1b7d-4cf0-8c21-27c902927222">
+                <item type="txt" lang="en">world</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">world</item>
+                    <item type="cf" lang="en">world</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NN.Sing</item>
+              </word>
+              <word guid="7dad34a3-549e-47ec-bafa-b55e78e0b5ca">
+                <item type="txt" lang="en">these</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">these</item>
+                    <item type="cf" lang="en">these</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DT.Plur.Dem</item>
+              </word>
+              <word guid="381c49f7-c461-4c52-9b9b-bfcd4da650ba">
+                <item type="txt" lang="en">days</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">days</item>
+                    <item type="cf" lang="en">days</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNS.Plur</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="8cdf84a1-9f3e-495d-be28-30eddfcd85e7">
+                <item type="txt" lang="en">uh</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">uh</item>
+                    <item type="cf" lang="en">uh</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">UH</item>
+              </word>
+              <word guid="2a7ae2e4-00ef-4ce6-9471-3886845e529e">
+                <item type="txt" lang="en">with</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">with</item>
+                    <item type="cf" lang="en">with</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5f992988-3b83-4336-b0e5-da2a50736405">
+                <item type="txt" lang="en">their</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">their</item>
+                    <item type="cf" lang="en">their</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PRP$.Gen.Plur.3.Yes.Prs</item>
+              </word>
+              <word guid="3e9452a2-4345-41b4-a8cb-4be980c513cc">
+                <item type="txt" lang="en">n-</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">n</item>
+                    <item type="cf" lang="en">n</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">UH</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="5549e0bd-e504-4e38-925f-dd8b4fe16c86">
+                <item type="txt" lang="en">you</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">you</item>
+                    <item type="cf" lang="en">you</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PRP.Nom.Sing.2.Prs</item>
+              </word>
+              <word guid="1e71cb4c-ecea-499d-9e60-8db96357027e">
+                <item type="txt" lang="en">know</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">know</item>
+                    <item type="cf" lang="en">know</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBP.Ind.Sing.2.Pres.Fin</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="c9e8ded2-b45d-4040-911a-9bb931fc0c65">
+                <item type="txt" lang="en">not</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">not</item>
+                    <item type="cf" lang="en">not</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">RB.Neg</item>
+              </word>
+              <word guid="261c03db-3ffc-4b89-a268-edf82409435c">
+                <item type="txt" lang="en">the</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">the</item>
+                    <item type="cf" lang="en">the</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DT.Def.Art</item>
+              </word>
+              <word guid="f7d0e557-e9f8-4390-8418-df43bb4c2e25">
+                <item type="txt" lang="en">scientists</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">scientists</item>
+                    <item type="cf" lang="en">scientists</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-s</item>
+                    <item type="cf" lang="en">-s</item>
+                    <item type="gls" lang="en">Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">NNS.Plur</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,</item>
+              </word>
+              <word guid="44eb8126-5267-477c-905f-74e98af34eff">
+                <item type="txt" lang="en">but</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">but</item>
+                    <item type="cf" lang="en">but</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">CC</item>
+              </word>
+              <word guid="7483f33c-f8bb-4f27-985f-f5cdbcd9c593">
+                <item type="txt" lang="en">what</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">what</item>
+                    <item type="cf" lang="en">what</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">WP.Rel</item>
+              </word>
+              <word guid="e9e03f42-9e15-43c6-a27b-663121b73d2a">
+                <item type="txt" lang="en">they</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">they</item>
+                    <item type="cf" lang="en">they</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PRP.Nom.Plur.3.Prs</item>
+              </word>
+              <word guid="73810404-4b23-47bd-a3fb-d2e87385cc11">
+                <item type="txt" lang="en">'ve</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">='ve</item>
+                    <item type="cf" lang="en">='ve</item>
+                    <item type="gls" lang="en">=</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBP.Ind.Plur.3.Pres.Fin</item>
+              </word>
+              <word guid="14864417-31b8-42e2-82d1-e23c05c55fe7">
+                <item type="txt" lang="en">invented</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">invent</item>
+                    <item type="cf" lang="en">invent</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="en">-ed</item>
+                    <item type="cf" lang="en">-ed</item>
+                    <item type="gls" lang="en">Past.Part</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">VBN.Past.Part</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">And scientists are, are taking such control over the world these days, uh with their n-, you know, not the scientists, but what they have invented.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

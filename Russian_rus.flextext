@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="420bf6ef-e5bc-4e2c-9088-0daa0816d2e7">
+    <item type="title" lang="en">Wonderful Abstract Notions</item>
+    <item type="title-abbreviation" lang="en">1</item>
+    <item type="genre" guid="1d6866a7-4ebf-4091-ba54-24409c820519" lang="en">Social</item>
+    <item type="date-created" lang="en">2026-05-12 14:21:18.095</item>
+    <item type="date-modified" lang="en">2026-05-12 14:23:24.750</item>
+    <paragraphs>
+      <paragraph guid="65abae0a-3dea-45b2-8610-440177864da9">
+        <phrases>
+          <phrase guid="3949d761-e974-4ba7-94a5-e607f731a13d">
+            <item type="txt" lang="ru">Ещё зимой в армиях ДНР и ЛНР было более 500 танков и тысяча боевых бронированных машин</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="d5a53fcb-4cc7-4c5f-946d-71ab63fb0ad5">
+                <item type="txt" lang="ru">Ещё</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">ещё</item>
+                    <item type="cf" lang="ru">еще</item>
+                    <item type="gls" lang="en">POS</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">POS</item>
+              </word>
+              <word guid="0036069a-0b07-4006-a4fe-368b167a09c8">
+                <item type="txt" lang="ru">зимой</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">зим</item>
+                    <item type="cf" lang="ru">зима</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-ой</item>
+                    <item type="cf" lang="ru">-ой</item>
+                    <item type="gls" lang="en">Inan.Ins.Fem.Sing</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Inan.Ins.Fem.Sing</item>
+              </word>
+              <word guid="6abafe86-1c06-4bd5-b8c7-ed03a15717d7">
+                <item type="txt" lang="ru">в</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">в</item>
+                    <item type="cf" lang="ru">в</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b7fcc18f-60b8-4698-be4f-1d8aa10619a8">
+                <item type="txt" lang="ru">армиях</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">арми</item>
+                    <item type="cf" lang="ru">армия</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-ях</item>
+                    <item type="cf" lang="ru">-ях</item>
+                    <item type="gls" lang="en">Inan.Loc.Fem.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Inan.Loc.Fem.Plur</item>
+              </word>
+              <word guid="2719aa28-59e3-490a-b55c-9a8dd3a434dd">
+                <item type="txt" lang="ru">ДНР</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">ДНР</item>
+                    <item type="cf" lang="ru">ДНР</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Yes.Geo</item>
+              </word>
+              <word guid="6334d0a1-e76c-4722-a76d-5fe03835f032">
+                <item type="txt" lang="ru">и</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">и</item>
+                    <item type="cf" lang="ru">и</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3b73c2b0-d3ee-4585-a012-d8abe0fc341c">
+                <item type="txt" lang="ru">ЛНР</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">ЛНР</item>
+                    <item type="cf" lang="ru">ЛНР</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Yes.Geo</item>
+              </word>
+              <word guid="513fbc63-1ced-4097-bfe0-a56f41cbfefb">
+                <item type="txt" lang="ru">было</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">было</item>
+                    <item type="cf" lang="ru">быть</item>
+                    <item type="variantTypes" lang="en" />
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Imp.Neut.Ind.Sing.Past.Fin.Act</item>
+              </word>
+              <word guid="4532c53e-2fae-4053-b78a-5a1f63b83b97">
+                <item type="txt" lang="ru">более</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">более</item>
+                    <item type="cf" lang="ru">более</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Cmp.Tot</item>
+              </word>
+              <word guid="f5319ff7-df27-4f47-9e1e-79a2a4b99825">
+                <item type="txt" lang="ru">500</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">500</item>
+                    <item type="cf" lang="ru">500</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Digit.Card</item>
+              </word>
+              <word guid="15cd53a8-dd0d-4683-a2cf-da6f27860ebd">
+                <item type="txt" lang="ru">танков</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">танк</item>
+                    <item type="cf" lang="ru">танк</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-ов</item>
+                    <item type="cf" lang="ru">-ов</item>
+                    <item type="gls" lang="en">Inan.Gen.Masc.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Inan.Gen.Masc.Plur</item>
+              </word>
+              <word guid="6334d0a1-e76c-4722-a76d-5fe03835f032">
+                <item type="txt" lang="ru">и</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">и</item>
+                    <item type="cf" lang="ru">и</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="fb2c4ef3-2f4e-4980-9889-7cf43ce1c6de">
+                <item type="txt" lang="ru">тысяча</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">тысяч</item>
+                    <item type="cf" lang="ru">тысяча</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-а</item>
+                    <item type="cf" lang="ru">-а</item>
+                    <item type="gls" lang="en">Inan.Nom.Fem.Sing</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Inan.Nom.Fem.Sing</item>
+              </word>
+              <word guid="8588b619-708a-4508-9d01-0c7ab4138065">
+                <item type="txt" lang="ru">боевых</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">боев</item>
+                    <item type="cf" lang="ru">боевой</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-ых</item>
+                    <item type="cf" lang="ru">-ых</item>
+                    <item type="gls" lang="en">Gen.Pos.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen.Pos.Plur</item>
+              </word>
+              <word guid="e8441f9d-bd0a-42dc-a28c-eeeb7120f409">
+                <item type="txt" lang="ru">бронированных</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">бронированн</item>
+                    <item type="cf" lang="ru">бронированный</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-ых</item>
+                    <item type="cf" lang="ru">-ых</item>
+                    <item type="gls" lang="en">Gen.Pos.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Gen.Pos.Plur</item>
+              </word>
+              <word guid="d3cc4155-14cd-4381-a373-778f4e233cad">
+                <item type="txt" lang="ru">машин</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">машин</item>
+                    <item type="cf" lang="ru">машина</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ru">-Ø</item>
+                    <item type="cf" lang="ru">-Ø</item>
+                    <item type="gls" lang="en">Inan.Gen.Fem.Plur</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Inan.Gen.Fem.Plur</item>
+              </word>
+            </words>
+            <item type="gls" lang="en"></item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="ru" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

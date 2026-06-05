@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="3">
+  <interlinear-text guid="8c6e97b6-3f1f-4eb2-8e0c-bfbe231b6bff">
+    <item type="title" lang="en">Akan</item>
+    <item type="source" lang="en">Sent ID: 453165 | File:examples.csv | Corpus: TypeCraft Akan Corpus as used in CLDF Cookbook https://github.com/cldf/cookbook/blob/master/recipes/igt/cldf/examples.csv</item>
+    <item type="date-created" lang="en">2026-04-23 20:10:06.604</item>
+    <item type="date-modified" lang="en">2026-04-23 20:10:06.604</item>
+    <paragraphs>
+      <paragraph guid="a94a505a-75a0-409c-a113-3d1294321805">
+        <phrases>
+          <phrase guid="3a445cf4-5bdb-4c26-a4d1-2065f3e5a877">
+            <item type="txt" lang="ak">nkoadaa fɛfɛɛfɛ no nyinaa ɛɛbayɛ ho na omɔshɛ atadeɛ kɔkɔɔ no</item>
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="2bb7f214-96fa-477a-aede-b8857605af5b">
+                <item type="txt" lang="ak">nkoadaa</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">n-</item>
+                    <item type="cf" lang="ak">n-</item>
+                    <item type="gls" lang="en">PL</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">akwadaa</item>
+                    <item type="cf" lang="ak">akwadaa</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">PL-child.SBJ</item>
+              </word>
+              <word guid="558e906a-af38-4d27-abda-4c2a9cada012">
+                <item type="txt" lang="ak">fɛfɛɛfɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">fɛfɛɛfɛ</item>
+                    <item type="cf" lang="ak">fɛfɛɛfɛ</item>
+                    <item type="gls" lang="en">beautiful</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">beautiful</item>
+              </word>
+              <word guid="9d27ebe1-6a99-492c-a78f-42613b3d9932">
+                <item type="txt" lang="ak">no</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">no</item>
+                    <item type="cf" lang="ak">no</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+              </word>
+              <word guid="322dbd04-ff6f-4d4b-a4f7-09159ae9d375">
+                <item type="txt" lang="ak">nyinaa</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">nyinaa</item>
+                    <item type="cf" lang="ak">nyinaa</item>
+                    <item type="gls" lang="en">tall</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">tall.DEF</item>
+              </word>
+              <word guid="c6b54fb1-b0a9-4bbe-b207-e13a6ee4422c">
+                <item type="txt" lang="ak">ɛɛbayɛ</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">ɛɛ-</item>
+                    <item type="cf" lang="ak">ɛɛ-</item>
+                    <item type="gls" lang="en"></item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">ba</item>
+                    <item type="cf" lang="ak">ba</item>
+                    <item type="gls" lang="en">come.VEN</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">yɛ</item>
+                    <item type="cf" lang="ak">yɛ</item>
+                    <item type="gls" lang="en">be</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">come.VEN be</item>
+              </word>
+              <word guid="d8fefd37-e056-4537-bcad-fcfee1472625">
+                <item type="txt" lang="ak">ho</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">ho</item>
+                    <item type="cf" lang="ak">ho</item>
+                    <item type="gls" lang="en">there.DXS.PROX</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">there.DXS.PROX</item>
+              </word>
+              <word guid="82308e2c-4fac-497b-9f89-3c715dfdf4ba">
+                <item type="txt" lang="ak">na</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">na</item>
+                    <item type="cf" lang="ak">na</item>
+                    <item type="gls" lang="en">FOC</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">FOC</item>
+              </word>
+              <word guid="cf1b75a1-086f-49d3-bec9-1d1ab0ee266f">
+                <item type="txt" lang="ak">omɔshɛ</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">omɔ-</item>
+                    <item type="cf" lang="ak">omɔ-</item>
+                    <item type="gls" lang="en">3PL</item>
+                    <item type="msa" lang="en">Attaches to any category</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">shɛ</item>
+                    <item type="cf" lang="ak">shɛ</item>
+                    <item type="gls" lang="en">wear</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">3PL-wear</item>
+              </word>
+              <word guid="594d7f93-7bd8-4dbd-be73-cd6f11c8ffc5">
+                <item type="txt" lang="ak">atadeɛ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">atadeɛ</item>
+                    <item type="cf" lang="ak">atadeɛ</item>
+                    <item type="gls" lang="en">dress</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">dress</item>
+              </word>
+              <word guid="4ad3dd62-4ba7-41b8-9bee-7a1851885298">
+                <item type="txt" lang="ak">kɔkɔɔ</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">kɔkɔɔ</item>
+                    <item type="cf" lang="ak">kɔkɔɔ</item>
+                    <item type="gls" lang="en">red</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">red</item>
+              </word>
+              <word guid="629ee522-7454-4267-b8d2-c8a7de589167">
+                <item type="txt" lang="ak">no</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="ak">no</item>
+                    <item type="cf" lang="ak">no</item>
+                    <item type="gls" lang="en">DEF</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">DEF</item>
+                <item type="pos" lang="en">DET</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">All the handsome children coming towards us they wear red dresses.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" vernacular="true" />
+      <language lang="ak" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

@@ -1,16 +1,16 @@
 
 # IGT Data Examples
-This repository contains examples illustrating how the same data (in different languages)  is formatted in various computational, archival, and fieldwork linguistics software formats. Primarily, this repository focuses on how various programs represent [interlinear glossed text](https://en.wikipedia.org/wiki/Interlinear_gloss) in these formats.
+This repository contains examples illustrating how the same data (in different languages)  is formatted in various computational, archival, and fieldwork linguistics software formats. Primarily, this repository focuses on how various programs represent [interlinear glossed text](https://en.wikipedia.org/wiki/Interlinear_gloss) (IGT) in these formats.
 # Why?
 This repository is meant to serve as a starting point for programmers looking to create converters between popular linguistic data formats. They can also be used by application designers to understand the structure of certain filetypes so they can add compatability to their programs for a wider variety of linguistic softwares. Linguistic knowledge is not assumed, only knowledge that is required to understand the underlying filetypes of these formats (XML, CSV/TSV, and CoNLL-U Schema).
 # Formats
-## Computational Data Formats
+## Data Formats used in Computational Linguistics / Natural Language Processing
 * Universal Dependencies CoNLL-U (*.conllu*); [Schema](https://universaldependencies.org/format.html)
-## Archival Data Formats
+## Data Formats intended for Archiving
 * Cross-Linguistic Data Formats CLDF (*-CLDF.csv*); [GitHub](https://github.com/cldf/cldf), [Ontology](https://cldf.clld.org/v1.0/terms.rdf) (Download)
-## Linguistic Field Work Software Data Formats
-* Max Planck Institute for Psycholinguistics, ELAN (*.eaf*) (XML)
-* Summer Institute of Linguistics, FieldWorks Language Explorer (FLEx)
+## Data Formats from Specialized Linguistic Software 
+* Max Planck Institute for Psycholinguistics's ELAN (*.eaf*) (XML)
+* SIL Global's FieldWorks Language Explorer (FLEx), in three formats
 	* Interlinear Texts (*.flextext*) (XML)
 		* Represent, in XML, the structure of an interlinear glossed text, a method linguists use to break words into smaller units of meaning.
 	* FLEx Project Files (*.fwbackup*, *.fwdata*)

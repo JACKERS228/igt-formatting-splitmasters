@@ -16,7 +16,7 @@ This repository is meant to serve as a starting point for programmers looking to
 	* FLEx Project Files (*.fwbackup*, *.fwdata*)
 ## Metadata
 The examples in this repository fall into 2 categories; **Simplified** and **Realistic**. **Simplified** data is much less extensive and is meant to quickly and simplistically represent how the same data can appear in the various formats. **Realistic** data is significantly more extensive and is meant to realistically illustrate how typical linguistics project data would look converted between formats. The `TAU`, `CHP`, and `BTZ` files serve as representative examples of realistic, low-resource documentary language data originating directly from linguistic fieldwork.
->Our chosen file naming convention: `<Language_Name>_<ISO 639-3>.<EXTENSION>`; this is unless the file extension is not descriptive (For example, *.csv* for CLDF), in which case we add the format name after the ISO 639-3 code separated by a hypgen (i.e. `AlasKluet_btz-CLDF.csv`) 
+>Our chosen file naming convention: `<Language_Name>_<ISO 639-3>.<EXTENSION>`; this is unless the file extension is not descriptive (For example, *.csv* for CLDF), in which case we add the format name after the ISO 639-3 code separated by a hyphen (i.e. `AlasKluet_btz-CLDF.csv`) 
 
 |Type| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source File Name |
 |:-------------:|:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|

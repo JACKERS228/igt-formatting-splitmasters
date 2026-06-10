@@ -1,23 +1,21 @@
 
 # IGT Data Examples
-This repository contains examples illustrating how the same data (in different languages)  is formatted in various computational, archival, and fieldwork linguistics software formats. Primarily, this repository focuses on how various programs represent [interlinear glossed text](https://en.wikipedia.org/wiki/Interlinear_gloss) in these formats.
+This repository contains examples illustrating how the same data (in different languages)  is formatted in various computational, archival, and fieldwork linguistics software formats. Primarily, this repository focuses on how various programs represent [interlinear glossed text](https://en.wikipedia.org/wiki/Interlinear_gloss) (IGT) in these formats.
 # Why?
 This repository is meant to serve as a starting point for programmers looking to create converters between popular linguistic data formats. They can also be used by application designers to understand the structure of certain filetypes so they can add compatability to their programs for a wider variety of linguistic softwares. Linguistic knowledge is not assumed, only knowledge that is required to understand the underlying filetypes of these formats (XML, CSV/TSV, and CoNLL-U Schema).
 # Formats
-## Computational Data Formats
+## Data Formats used in Computational Linguistics / Natural Language Processing
 * Universal Dependencies CoNLL-U (*.conllu*); [Schema](https://universaldependencies.org/format.html)
-## Archival Data Formats
+## Data Formats intended for Archiving
 * Cross-Linguistic Data Formats CLDF (*-CLDF.csv*); [GitHub](https://github.com/cldf/cldf), [Ontology](https://cldf.clld.org/v1.0/terms.rdf) (Download)
-## Linguistic Field Work Software Data Formats
-* Max Planck Institute for Psycholinguistics, ELAN (*.eaf*) (XML)
-* Summer Institute of Linguistics, FieldWorks Language Explorer (FLEx)
+## Data Formats from Specialized Linguistic Software 
+* Max Planck Institute for Psycholinguistics's ELAN (*.eaf*) (XML)
+* SIL Global's FieldWorks Language Explorer (FLEx), in three formats
 	* Interlinear Texts (*.flextext*) (XML)
 		* Represent, in XML, the structure of an interlinear glossed text, a method linguists use to break words into smaller units of meaning.
 	* FLEx Project Files (*.fwbackup*, *.fwdata*)
 ## Metadata
-The examples in this repository fall into 2 categories; **Simplified** and **Realistic**. **Simplified** data is much less extensive and is meant to quickly and simplistically represent how the same data can appear in the various formats. **Realistic** data is significantly more extensive and is meant to realistically illustrate how typical linguistics project data would look converted between formats. The `TAU`, `CHP`, and `BTZ` files serve as representative examples of realistic, low-resource documentary language data originating directly from linguistic fieldwork.
->Our chosen file naming convention: `<Language_Name>_<ISO 639-3>.<EXTENSION>`; this is unless the file extension is not descriptive (For example, *.csv* for CLDF), in which case we add the format name after the ISO 639-3 code separated by a hyphen (i.e. `AlasKluet_btz-CLDF.csv`) 
-
+The examples in this repository fall into 2 categories: **Curated** and **Realistic**. **Curated** data tend to be much less extensive because we used very short examples to quickly and simplistically represent how the data can appear in a particular format. **Realistic** data is significantly more extensive, usually provided by field linguists, contains all their data rather than a selected sample, and is meant to realistically illustrate typical linguistics project data. The `TAU`, `CHP`, and `BTZ` files serve as representative examples of realistic, low-resource documentary language data originating directly from linguistic fieldwork.
 |Type| Language (ISO-639-3)      | Source                                        | Source Original Format  | Converted Formats | Original Source File Name |
 |:-------------:|:-------------:            |:-------------:                                |:-------------: | :---------------:| :------------------------:|
 |Simp.| Akan (aka)                | [TypeCraft Akan Corpus 1.0]((https://typecraft.org/tc2wiki/TypeCraft_Akan_Data_Collection_Release_1.0)) via [CLDF Cookbook](https://github.com/cldf/cookbook)                | CLDF from TypeCraft| ELAN, FLEx, CLDF, CoNLL-U       |Release 1.0.zip |

@@ -353,6 +353,16 @@ FoLiA already has a functioning [converter](https://github.com/birch-group/elan2
 
 **CoNLL-U** is a structured data format maintained by Universal Dependencies. It follows a tab-separated format to outline specific information for each word or *FORM* element. CoNLL-U is serialized as *.conllu* files.
 Here, we show how the *.conllu* formatted IGT is mapped to the three other linguistic data formats: FLEx, ELAN, and CLDF. Each subsection provides some background and considerations for mapping between the two formats, as well as generalizing "what maps to what."
+
+A few notes on CONLL-U schema for IGT representation and mapping.
+* **Morphological Limitations:** UD annotations identify morphological features but do not perform explicit morphological segmentation, which can obscure morpheme breakdowns (see CoNLL-U sourced examples). Conversely, UD may extract only minimal morphological information from analytical languages (see Mandarin example).
+* **Phonological Transcription:** Transliterations may occasionally serve as phonological transcriptions (see Xibe, where data resides under the `# text[phon]` comment and `Translit` attribute).
+* **XPOS Field Utilization:** The `XPOS` field contain language or project specific tags and therefore captures highly mixed data types, including morphology, syntax (e.g., adposition type), and semantics (e.g., abbreviations, specific name types).
+* **Multiword Tokens & Contractions:** Components parsed as multiword tokens in UD are handled differentially across field tools:
+* *ELAN:* Separated strictly at the `WORD` level.
+* *FLEx:* Grouped at the lexical level under a single `Word` entry.
+
+
 ## CoNLL-U to FLEx
 * `# meta::sourceURL = ` maps to Source
 * `# newpar` and the wordlines within that maps to `<item type='txt'>` within `<phrase>`
@@ -383,6 +393,8 @@ Here, we show how the *.conllu* formatted IGT is mapped to the three other lingu
 * *.json* Metadata[^6]: CLDF stores its metadata in *.json* format and while the documentation states that metadata is not required, it is heavily recommended by the developer.
 * *.csv* Data Files: CLDF stores actual linguistic data as a group of *.csv* files that conform to the defined table structure in the *.json* metadata.
 Here, we show how the *.csv* formatted IGT is mapped to the three other linguistic data formats: FLEx, ELAN, and CoNLL-U. Each subsection provides some background and considerations for mapping between the two formats, as well as generalizing "what maps to what."
+**Structural Parsing Constraints (CLDF):** CLDF natively lacks dedicated fields to differentiate between surface and underlying morphemes—a distinction routinely maintained in both ELAN and FLEx workflows.
+
 ## CLDF to FLEx
 * `Source` maps to Source in `<interlinear-text><item>`
 * `Primary_Text` maps to Baseline or concatenated `<phrase><item type='txt'>`

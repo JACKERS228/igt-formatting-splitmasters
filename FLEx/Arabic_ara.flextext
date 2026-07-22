@@ -11,7 +11,7 @@
           <phrase guid="07de20be-3d58-4cbe-95ca-32dd6308fcfd">
             <item type="txt" lang="ar">دمشق (وكالات الانباء) - اجرى الرئيس السوري بشار الاسد تعديلا حكومياً واسعا تم بموجبه إقالة وزيري الداخلية والاعلام عن منصبيها في حين ظل محمد ناجي العطري رئيساً للحكومة.</item>
             <item type="segnum" lang="en">1</item>
-            <words>
+              <words>
               <word guid="9e0627a3-38c2-42a6-9e07-b8ec76d5b74a">
                 <item type="txt" lang="ar">دمشق</item>
                 <item type="txt" lang="ar-Latn">dmšq</item>
